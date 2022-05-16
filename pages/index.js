@@ -16,7 +16,7 @@ export default function Home() {
         <Link href="/#index" scroll={false}>
           <a>Features</a>
         </Link>
-       >
+       
         <Link href="/about" scroll={false}>
          <a>About</a>
         </Link>
