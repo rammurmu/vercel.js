@@ -13,14 +13,44 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
     
     <nav>
+      <Link href="/index">
+        <a>Home</a>
+      </Link>
+    </nav>
+    <nav>
       <Link href="/about">
         <a>About</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/">
+        <a>Features</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/">
+        <a>Seller</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/">
+        <a>Buyers</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/">
+        <a>Pricing</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/">
+        <a>Contact</a>
       </Link>
     </nav>
   
     <ul className={styles.description}> 
       <Link href="/#index" scroll={false}>
-        <a>Features</a>
+        <a>Give your store a real experience in the a complete digitization</a>
       </Link>
     </ul>
         
