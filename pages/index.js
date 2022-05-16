@@ -23,27 +23,27 @@ export default function Home() {
       </Link>
     </nav>
     <nav>
-      <Link href="/">
+      <Link href="/features">
         <a>Features</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/">
+      <Link href="/seller">
         <a>Seller</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/">
-        <a>Buyers</a>
+      <Link href="/buyer">
+        <a>Buyer</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/">
+      <Link href="/pricing">
         <a>Pricing</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/">
+      <Link href="/contact">
         <a>Contact</a>
       </Link>
     </nav>
