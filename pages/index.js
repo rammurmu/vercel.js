@@ -50,7 +50,7 @@ export default function Home() {
   
     <ul className={styles.description}> 
       <Link href="/#index" scroll={false}>
-        <a>Give your store a real experience in the a complete digitization</a>
+        <a>Give your store a real experience in <br />a complete digitization</a>
       </Link>
     </ul>
         
