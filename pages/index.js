@@ -6,6 +6,13 @@ import Link from 'next/link'
 
 export default function Home() {
   return (
+    <nav>
+      <Link href="/about">
+        <a>About</a>
+      </Link>
+    </nav>
+  )
+}
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
