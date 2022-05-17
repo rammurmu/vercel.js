@@ -10,7 +10,7 @@ export default function About() {
         <div className={styles.grid}>
          <a href="https://" className={styles.card}>
          <h2>Oneliner</h2>
-         <p>RunAsh is a live streaming hybrid marketplace for retailing,where retailer can meet to buyers & demonstrate, presentation their products with buyers </p>
+         <p>RunAsh is a live streaming hybrid marketplace for retailing,where retailer face to face demonstrate, presentation their products with buyers </p>
         </a>
 
         <a href="https://" className={styles.card}>
