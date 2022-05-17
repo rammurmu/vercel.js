@@ -48,6 +48,8 @@ export default function Home() {
       </Link>
     </nav>
   
+    <Note type="secondary">This note details some information.</Note>
+
     <ul className={styles.description}> 
       <Link href="/#index" scroll={false}>
         <a>Give your store a real experience in <br />a complete digitization</a>
