@@ -13,8 +13,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
     
     <nav>
-      <Link href="/company">
-        <a>Company</a>
+      <Link href="/about">
+        <a>About</a>
       </Link>
     </nav>
     <nav>
