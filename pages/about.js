@@ -15,12 +15,12 @@ export default function About() {
 
         <a href="https://" className={styles.card}>
          <h2>Discipline and culture</h2>
-         <p>Discipline and learning is the backbone of the development of our startup journey and runash culture is our behavior</p>
+         <p>Discipline and learning is the backbone of development of startup journey & culture is our behavior</p>
         </a>
 
         <a href="https://" className={styles.card}>
          <h2>What we do</h2>
-         <p>We created new model of marketplace were retailers face-to-face meet,showcase,demonstrate & presentation their products with buyers</p>
+         <p>We created new model of marketplace where retailers face to face demonstrate & presentation their products with buyers</p>
         </a>
 
         <a href="https://" className={styles.card}>
