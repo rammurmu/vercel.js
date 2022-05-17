@@ -50,11 +50,9 @@ export default function Home() {
   
     
 
-    <ul className={styles.description}> 
-      <Link href="/#index"
-        <a>Give your store a real experience in <br />a complete digitization</a>
-      </Link>
-    </ul>
+    <h1 className={styles.description}> 
+        Give your store a real experience in <br />a complete digitization</h1>
+    
         
     
         
