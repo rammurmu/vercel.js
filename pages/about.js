@@ -12,7 +12,7 @@ export default function About() {
          <h2>🎤Introduction</h2>
          <p>RunAsh Discipline and Culture<br />Discipline and learning is the backbone of the development of our startup journey and runash culture is our behavior</p>
         </a>
-        
+        </div>
    
 
         <p className={styles.description}>
