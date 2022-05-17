@@ -8,7 +8,7 @@ export default function About() {
         <h1>About RunAsh</h1>
         <Container row>
           <Container>
-            <Note size="small">
+            <Note>
              👏Welcome to RunAsh family,
             </Note>
         </Container>
