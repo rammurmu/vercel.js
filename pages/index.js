@@ -13,28 +13,29 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
     
     <nav>
-      <Link href="/index">
-        <a>Home</a>
+      <Link href="/company">
+        <a>Company</a>
       </Link>
     </nav>
-    <nav>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
-    </nav>
+    <Spacer x={3} />
     <nav>
       <Link href="/features">
         <a>Features</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/seller">
-        <a>Seller</a>
+      <Link href="/solution">
+        <a>Solution</a>
       </Link>
     </nav>
     <nav>
-      <Link href="/buyer">
-        <a>Buyer</a>
+      <Link href="/support">
+        <a>Support</a>
+      </Link>
+    </nav>
+    <nav>
+      <Link href="/legal">
+        <a>Legal</a>
       </Link>
     </nav>
     <nav>
@@ -43,8 +44,8 @@ export default function Home() {
       </Link>
     </nav>
     <nav>
-      <Link href="/contact">
-        <a>Contact</a>
+      <Link href="/resources">
+        <a>Resources</a>
       </Link>
     </nav>
   
