@@ -9,7 +9,7 @@ export default function About() {
         
         <Container>
             <Note>
-             👏Welcome to RunAsh family,
+             Welcome to RunAsh family
             </Note>
         </Container>
 
