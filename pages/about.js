@@ -6,13 +6,13 @@ export default function About() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>About RunAsh</h1>
-        
+    <div>  
         <Container>
             <Note>
              Welcome to RunAsh family
             </Note>
         </Container>
-
+    </div>
         <p>🎤Introduction<br />RunAsh Discipline and Culture<br />Discipline and learning is the backbone of the development of our startup journey and RunAsh Culture is our behavior</p>
         <p className={styles.description}>
           <Link href="/">
