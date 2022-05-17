@@ -8,7 +8,8 @@ export default function About() {
         <h1>About RunAsh</h1>
         <p><code>👏 Welcome to RunAsh family!</code></p>
         <h1>🎤Introduction</h1>
-        <p>RunAsh Discipline and Culture<br />Discipline and learning is the backbone of the development of our startup journey and RunAsh Culture is our behavior</p>
+        <p>RunAsh Discipline and Culture</p>
+        <p>Discipline and learning is the backbone of the development of our startup journey and runash culture is our behavior</p>
         <p className={styles.description}>
           <Link href="/">
             <a>&larr; Go Back</a>
