@@ -52,7 +52,7 @@ export default function Home() {
 
     <ul className={styles.description}> 
       <Link href="/#index"
-        <a><Note type="secondary">Give your store a real experience in a complete digitization</Note></a>
+        <a>Give your store a real experience in <br />a complete digitization</a>
       </Link>
     </ul>
         
