@@ -17,7 +17,6 @@ export default function Home() {
         <a>Company</a>
       </Link>
     </nav>
-    <Spacer x={3} />
     <nav>
       <Link href="/features">
         <a>Features</a>
