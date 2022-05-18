@@ -23,8 +23,6 @@ export default function Post(props) {
     <MDXProvider components={components}>
       <main {...props} />
     </MDXProvider>
-  )
-}
 
 
 export default function Home() {
