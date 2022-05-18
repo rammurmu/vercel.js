@@ -58,6 +58,7 @@ export default function Home() {
          <Link href="/resources">
            <a>Resources</a>
          </Link>
+         <a href="/"></a>
          </nav>
        </header>
          
