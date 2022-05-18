@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
-import { Heading, InlineCode, Pre, Table, Text } from 'my-components'
+//import { Heading, InlineCode, Pre, Table, Text } from 'my-components'
 
 export default function Home() {
   return (
