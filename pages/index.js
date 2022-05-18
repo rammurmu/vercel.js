@@ -16,15 +16,13 @@ export default function Home() {
     <nav className={styles.nav}>
       <Link href="/about">
         <a>About</a>
-      </Link>{' '}
-      |{' '}
+      </Link>
     </nav>
   >
     <nav>
       <Link href="/features">
         <a>Features</a>
-      </Link>{' '}
-      |{' '}
+      </Link>
     </nav>
   >
     <nav>
@@ -32,25 +30,25 @@ export default function Home() {
         <a>Solution</a>
       </Link>
     </nav>
- >
+  >
     <nav>
       <Link href="/support">
         <a>Support</a>
       </Link>
     </nav>
- >
+  >
     <nav>
       <Link href="/legal">
         <a>Legal</a>
       </Link>
     </nav>
- >
+  >
     <nav>
       <Link href="/pricing">
         <a>Pricing</a>
       </Link>
     </nav>
->
+  >
     <nav>
       <Link href="/resources">
         <a>Resources</a>
