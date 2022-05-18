@@ -51,7 +51,7 @@ export default function Home() {
     
 
     <h1 className={styles.description}> 
-        Give your store <br />a real experience on <br />a complete digitization</h1>
+        Give your store a<br /> real experience <br />on a complete digitization</h1>
     
         
     
