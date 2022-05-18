@@ -19,7 +19,7 @@ export default function Home() {
          </Link>
         </nav>
         
-        <nav>
+        <nav className={styles.container}>
          <Link href="/features">
            <a>Features</a>
          </Link>
