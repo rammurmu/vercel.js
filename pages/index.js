@@ -19,39 +19,46 @@ export default function Home() {
       </Link>{' '}
       |{' '}
     </nav>
+  >
     <nav>
       <Link href="/features">
         <a>Features</a>
       </Link>{' '}
       |{' '}
     </nav>
+  >
     <nav>
       <Link href="/solution">
         <a>Solution</a>
       </Link>
     </nav>
+ >
     <nav>
       <Link href="/support">
         <a>Support</a>
       </Link>
     </nav>
+ >
     <nav>
       <Link href="/legal">
         <a>Legal</a>
       </Link>
     </nav>
+ >
     <nav>
       <Link href="/pricing">
         <a>Pricing</a>
       </Link>
     </nav>
+>
     <nav>
       <Link href="/resources">
         <a>Resources</a>
       </Link>
     </nav>
     </header>
-    
+    target="_blank"
+    rel="noopener noreferrer"
 
     <h1 className={styles.description}> 
         Give your store a<br /> real experience <br />on a complete digitization</h1>
