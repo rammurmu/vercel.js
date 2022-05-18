@@ -7,6 +7,7 @@ module.exports = nextConfig
 const withMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
   options: {
+     provideImportSource: '@mdx-js/react',
     remarkPlugins: [],
     rehypePlugins: [],
     // If you use `MDXProvider`, uncomment the following line.
@@ -18,9 +19,4 @@ module.exports = withMDX({
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
 })
 
-const withMDX = require('@next/mdx')({
-  // ...
-  options: {
-    providerImportSource: '@mdx-js/react',
-  },
-})
+
