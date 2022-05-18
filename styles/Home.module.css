@@ -1,4 +1,4 @@
-.nav {
+.main-nav {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -8,7 +8,7 @@
   border-right: 1px solid #eaeaea;
 }
 
-.nav > a {
+.man-nav > a {
   margin: 8px 0;
   text-decoration: none;
   background: white;
@@ -23,7 +23,7 @@
   transition: all 0.125s ease;
 }
 
-.nav > a:hover {
+.man-nav > a:hover {
   background-color: #eaeaea;
 }
 
