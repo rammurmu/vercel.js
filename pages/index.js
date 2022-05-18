@@ -14,15 +14,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
       <header>
         <>
-        <nav links={data.link} />
+        <Navbar links={data.link} />
         <main>{childran}</main>
          <Link href="/about">
            <a>About</a>
          </Link>
         </nav>
-        </>
-        <>
-        <nav links={data.link}>
+        
+        
+        <Navbar links={data.link}>
         <main>{childran}</main>
          <Link href="/features">
            <a>Features</a>
@@ -57,6 +57,7 @@ export default function Home() {
          <Link href="/resources">
            <a>Resources</a>
          </Link>
+         </>
         </nav>
         </header>
          
