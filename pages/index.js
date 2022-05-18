@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
 
-export default function Home() {
+export default function Index() {
   return (
     <section>
     <h2>Layout Example (Index)</h2>
