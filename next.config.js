@@ -18,3 +18,9 @@ module.exports = withMDX({
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
 })
 
+const withMDX = require('@next/mdx')({
+  // ...
+  options: {
+    providerImportSource: '@mdx-js/react',
+  },
+})
