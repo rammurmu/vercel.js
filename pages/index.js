@@ -1,17 +1,11 @@
-import Layout from '../components/layout'
-import Sidebar from '../components/sidebar'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
 
-export default function Index() {
+export default function Home() {
   return (
-    <section>
-    <h2>Layout Example (Index)</h2>
-    <p>try</>
-    <h3>try</h3>
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
@@ -66,18 +60,7 @@ export default function Index() {
         <h2 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h2>
        
     </Head>
-    </section>
-)
-}
 
-Index.getLayout = function getLayout(page) {
-  return (
-    <Layout>
-      <Sidebar />
-      {page}
-    </Layout>
-  )
-}
        
         <main className={styles.main}>
         <h1 className={styles.title}>
