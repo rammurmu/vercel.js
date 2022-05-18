@@ -14,53 +14,47 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
       <header>
         <nav className={styles.nav}>
-        <a
-          href="https://runash.in"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
          <Link href="/about">
            <a>About</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/features">
            <a>Features</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/solution">
            <a>Solution</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/support">
            <a>Support</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/legal">
            <a>Legal</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/pricing">
            <a>Pricing</a>
          </Link>
-         </nav>
+        </nav>
         >
-         <nav>
+        <nav>
          <Link href="/resources">
            <a>Resources</a>
          </Link>
-         <a href="/"></a>
-         </nav>
-       </header>
+        </nav>
+        </header>
          
 
     <h1 className={styles.description}> 
