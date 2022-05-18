@@ -60,7 +60,7 @@ export default function Home() {
          </Link>
          </nav>
        </header>
-         >
+         
 
     <h1 className={styles.description}> 
         Give your store a<br /> real experience <br />on a complete digitization</h1>
