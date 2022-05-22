@@ -16,7 +16,7 @@ export default function Home() {
         <>
           <Nav />
           <p>Home</p>
-        </>
+       
       
         <nav>
          <Link href="/about">
@@ -53,7 +53,7 @@ export default function Home() {
            <a>Resources</a>
          </Link> 
         </nav>
-        
+        </>
          
 
     <h1 className={styles.description}> 
