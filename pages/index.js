@@ -51,6 +51,11 @@ export default function Home() {
          <Link href="/resources">
            <a>Resources</a>
          </Link> 
+        <nav>
+         <Link href="/blog">
+         <a>blog</a>
+         </Link>
+        </nav>
         </nav>
         
          
