@@ -61,6 +61,11 @@ export default function Home() {
         <a>Contact</a>
         </Link>
         </nav>
+        <nav>
+        <Link href="/mymdx">
+        <a>MDx</a>
+        </Link>
+        </nav>
         </nav>
         
          
