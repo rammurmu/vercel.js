@@ -51,7 +51,7 @@ export default function Home() {
         
          
 
-    <h1 className={styles.description}> 
+    <h1 className={styles.title}> 
         Give your store a<br /> real experience <br />on a complete digitization</h1>
     
         
