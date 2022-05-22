@@ -20,7 +20,7 @@ export default function Home() {
         <nav className={styles.description}>
          <Link href="/about">
            <a>About</a>
-         </Link>
+         </Link>{' '}
         
          <Link href="/features">
            <a>Features</a>
