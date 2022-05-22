@@ -6,8 +6,9 @@ export default function Contact() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Contact Page</h1>
-    <div className={styles.card}>
+    <p className={styles.grid}>
        <p><code>👏Welcome to RunAsh</code></p>
+    <div className={styles.grid}>
         <h2>CONTACTING SUPPORT</h2>
         <p>ELSEWHERE ON THE INTERNET<br />Before contacting us , please check the frequently asked questions
 Here are contact emails for different part of runash<br />
