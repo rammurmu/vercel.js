@@ -9,7 +9,7 @@ export default function Blog() {
         <p className={styles.description}>
         <h1 className="title">
         Read{' '}
-        <Link href="/first-post">
+        <Link href="/post">
           <a>this page!</a>
        </Link>
        </h1>
