@@ -7,7 +7,7 @@ export default function Contact() {
       <main className={styles.main}>
         <h1>Contact Page</h1>
     <p className={styles.grid}>
-       <p><code>👏Welcome to RunAsh</code></p>
+       <code>👏Welcome to RunAsh</code></p>
     <div className={styles.grid}>
         <h2>CONTACTING SUPPORT</h2>
         <p>ELSEWHERE ON THE INTERNET<br />Before contacting us , please check the frequently asked questions
