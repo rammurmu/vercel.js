@@ -19,23 +19,23 @@ export default function Home() {
       
         <nav className={styles.description}>
          <Link href="/about">
-           <a>About</a>
+           <a><code>About</code></a>
          </Link>{' '}
         
          <Link href="/features">
-           <a>Features</a>
+           <a><code>Features</code></a>
          </Link>{' '}
        
          <Link href="/solution">
-           <a>Solution</a>
+           <a><code>Solution</code></a>
          </Link>{' '}
        
          <Link href="/support">
-           <a>Support</a>
+           <a><code>Support<code></a>
          </Link>{' '}
         
          <Link href="/legal">
-           <a>Legal</a>
+           <a><code>Legal</code></a>
          </Link>{' '}
         
          <Link href="/pricing">
