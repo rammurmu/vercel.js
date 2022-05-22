@@ -24,7 +24,7 @@ export default function Home() {
         </nav> 
         <nav>
          <Link href="/features">
-           <a>Features<svg data-testid="geist-icon" fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24" style="color:var(--geist-foreground)"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg></a>
+           <a><svg data-testid="geist-icon" fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24" style="color:var(--geist-foreground)"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg></a>
          </Link>
         </nav>
         <nav>
