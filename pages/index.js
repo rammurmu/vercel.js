@@ -19,42 +19,42 @@ export default function Home() {
       
         <nav className={styles.description}>
          <Link href="/about">
-           <a><code>About</code></a>
+           <a className={styles.code}><code>About</code></a>
          </Link>{' '}
         
-         <Link href="/features">
+         //<Link href="/features">
            <a><code>Features</code></a>
          </Link>{' '}
        
-         <Link href="/solution">
+         //<Link href="/solution">
            <a><code>Solution</code></a>
          </Link>{' '}
        
-         <Link href="/support">
+         //<Link href="/support">
            <a><code>Support<code></a>
          </Link>{' '}
         
-         <Link href="/legal">
+         //<Link href="/legal">
            <a><code>Legal</code></a>
          </Link>{' '}
         
-         <Link href="/pricing">
+        // <Link href="/pricing">
            <a></a>
          </Link>
         
-         <Link href="/resources">
+         //<Link href="/resources">
            <a></a>
          </Link> 
         
-         <Link href="/blog">
+        // <Link href="/blog">
          <a></a>
          </Link>
         
-        <Link href="/contact">
+        //<Link href="/contact">
         <a></a>
         </Link>
        
-        <Link href="/mymdx">
+        //<Link href="/mymdx">
         <a></a>
         </Link>
       
