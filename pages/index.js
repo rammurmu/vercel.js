@@ -19,23 +19,23 @@ export default function Home() {
       
         <nav className={styles.description}>
          <Link href="/about">
-           <a className={styles.code}><code>About</code></a>
+           <a><code>About</code></a>
          </Link>{' '}
         
          <Link href="/features">
-           <a className={styles.code}>Features</a>
+           <a>Features</a>
          </Link>{' '}
        
          <Link href="/solution">
-           <a className={styles.code}>Solution</a>
+           <a>Solution</a>
          </Link>{' '}
        
          <Link href="/support">
-           <a className={styles.code}>Support</a>
+           <a>Support</a>
          </Link>{' '}
         
          <Link href="/legal">
-           <a className={styles.code}>Legal</a>
+           <a>Legal</a>
          </Link>{' '}
         
          <Link href="/pricing">
@@ -68,7 +68,7 @@ export default function Home() {
         
     
         
-        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>   
+        <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
         <h2 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h2>
        
     </Head>
