@@ -59,6 +59,7 @@ export default function Home() {
         <nav>
         <Link href="/contact">
         <a>Contact</a>
+        </Link>
         </nav>
         </nav>
         
