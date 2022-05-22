@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
         
         
-       
+       <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <nav className={styles.description}>
          <Link href="/about">
@@ -23,19 +23,19 @@ export default function Home() {
          </Link>{' '}
         
          <Link href="/features">
-           <a>Features</a>
+           <a className={styles.code}>Features</a>
          </Link>{' '}
        
          <Link href="/solution">
-           <a>Solution</a>
+           <a className={styles.code}>Solution</a>
          </Link>{' '}
        
          <Link href="/support">
-           <a>Support</a>
+           <a className={styles.code}>Support</a>
          </Link>{' '}
         
          <Link href="/legal">
-           <a>Legal</a>
+           <a className={styles.code}>Legal</a>
          </Link>{' '}
         
          <Link href="/pricing">
