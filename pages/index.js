@@ -21,41 +21,41 @@ export default function Home() {
          <Link href="/about">
            <a>About</a>
          </Link>
-        >
+        
          <Link href="/features">
            <a>Features</a>
          </Link>
-       >
+       
          <Link href="/solution">
            <a>Solution</a>
          </Link>
-       >
+       
          <Link href="/support">
            <a>Support</a>
          </Link>
-        >
+        
          <Link href="/legal">
            <a>Legal</a>
          </Link>
-        >
+        
          <Link href="/pricing">
            <a>Pricing</a>
          </Link>
-        >
+        
          <Link href="/resources">
            <a>Resources</a>
          </Link> 
-        >
+        
          <Link href="/blog">
-         <a>Blog</a>
+         <a></a>
          </Link>
-        >
+        
         <Link href="/contact">
-        <a>Contact</a>
+        <a></a>
         </Link>
-       >
+       
         <Link href="/mymdx">
-        <a>MDx</a>
+        <a></a>
         </Link>
       
         </nav>
