@@ -22,39 +22,39 @@ export default function Home() {
            <a className={styles.code}><code>About</code></a>
          </Link>{' '}
         
-         //<Link href="/features">
-           <a><code>Features</code></a>
+         <Link href="/features">
+           <a>Features</a>
          </Link>{' '}
        
-         //<Link href="/solution">
-           <a><code>Solution</code></a>
+         <Link href="/solution">
+           <a>Solution</a>
          </Link>{' '}
        
-         //<Link href="/support">
-           <a><code>Support<code></a>
+         <Link href="/support">
+           <a>Support</a>
          </Link>{' '}
         
-         //<Link href="/legal">
-           <a><code>Legal</code></a>
+         <Link href="/legal">
+           <a>Legal</a>
          </Link>{' '}
         
-        // <Link href="/pricing">
+         <Link href="/pricing">
            <a></a>
          </Link>
         
-         //<Link href="/resources">
+         <Link href="/resources">
            <a></a>
          </Link> 
         
-        // <Link href="/blog">
+         <Link href="/blog">
          <a></a>
          </Link>
         
-        //<Link href="/contact">
+        <Link href="/contact">
         <a></a>
         </Link>
        
-        //<Link href="/mymdx">
+        <Link href="/mymdx">
         <a></a>
         </Link>
       
