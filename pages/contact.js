@@ -9,7 +9,7 @@ export default function Contact() {
     <p className={styles.grid}>👏Welcome to RunAsh</p>
     <div className={styles.grid}>
     <a href="https://" className={styles.card}>
-        <h2>CONTACTING SUPPORT</h2>
+        <h1>CONTACTING SUPPORT</h1>
         <p>ELSEWHERE ON THE INTERNET<br />Before contacting us , please check the frequently asked questions
 Here are contact emails for different part of runash<br />
 Admin to direct write:admin@runash.in<br />
