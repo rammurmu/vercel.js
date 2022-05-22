@@ -56,6 +56,10 @@ export default function Home() {
          <a>Blog</a>
          </Link>
         </nav>
+        <nav>
+        <Link href="/contact">
+        <a>Contact</a>
+        </nav>
         </nav>
         
          
