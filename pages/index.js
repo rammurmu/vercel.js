@@ -53,7 +53,7 @@ export default function Home() {
          </Link> 
         <nav>
          <Link href="/blog">
-         <a>blog</a>
+         <a>Blog</a>
          </Link>
         </nav>
         </nav>
