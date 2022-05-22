@@ -24,26 +24,26 @@ export default function Home() {
         
          <Link href="/features">
            <a>Features</a>
-         </Link>
+         </Link>{' '}
        
          <Link href="/solution">
            <a>Solution</a>
-         </Link>
+         </Link>{' '}
        
          <Link href="/support">
            <a>Support</a>
-         </Link>
+         </Link>{' '}
         
          <Link href="/legal">
            <a>Legal</a>
-         </Link>
+         </Link>{' '}
         
          <Link href="/pricing">
-           <a>Pricing</a>
+           <a></a>
          </Link>
         
          <Link href="/resources">
-           <a>Resources</a>
+           <a></a>
          </Link> 
         
          <Link href="/blog">
