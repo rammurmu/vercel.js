@@ -17,7 +17,7 @@ export default function Home() {
         
        
       
-        <nav>
+        <nav className={styles.description}>
          <Link href="/about">
            <a>About</a>
          </Link>
