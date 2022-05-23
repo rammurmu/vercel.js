@@ -205,12 +205,7 @@ export default function Home() {
           Backed by{' '}
           <code className={styles.code}>Open Source</code>
         </p>
-        <a
-          href="https://""
-          className={styles.card}>
-        >
-        <p>Get your valuable feedback  ✨</p>
-       </a>
+        
        
 
       </div>
