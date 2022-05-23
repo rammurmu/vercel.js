@@ -199,9 +199,10 @@ export default function Home() {
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
 
-       <div clssName={styles.description}>
-        <h1>A live streaming hybrid marketplace</h1>
+       <h1 clssName={styles.description}>
+        A live streaming hybrid marketplace</h1>
          <p>for retailing platform</p>
+
       </div>
       </main>
 
