@@ -207,7 +207,7 @@ export default function Home() {
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
 
-       <p clssName={styles.description}>
+       <p clssName={styles.grid}>
         A live streaming hybrid marketplace<br />for retailing platform</p>
 
       </div>
