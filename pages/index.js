@@ -20,44 +20,53 @@ export default function Home() {
         <nav className={styles.nav}>
          <Link href="/about">
            <a>About</a>
-         </Link>{' '}
-        
+         </Link>
+        </nav>
+        <nav>
          <Link href="/features">
            <a>Features</a>
-         </Link>{' '}
-       
+         </Link>
+         </nav>
+        <nav>
          <Link href="/solution">
            <a>Solution</a>
-         </Link>{' '}
-       
+         </Link>
+         </nav>
+         <nav>
          <Link href="/support">
            <a>Support</a>
-         </Link>{' '}
-        
+         </Link>
+         </nav>
+         <nav>
          <Link href="/legal">
            <a>Legal</a>
-         </Link>{' '}
-        
+         </Link>
+         </nav>
+         <nav>
          <Link href="/pricing">
            <a>Pricing</a>
          </Link>
-        
+         </nav>
+        <nav>
          <Link href="/resources">
            <a>Resources</a>
          </Link> 
-        
+        </nav>
+        <nav>
          <Link href="/blog">
          <a>Blog</a>
          </Link>
-        
+        </nav>
+        <nav>
         <Link href="/contact">
         <a>Contact</a>
         </Link>
-       
+        </nav>
+        <nav>
         <Link href="/mymdx">
         <a>Mdx</a>
         </Link>
-      
+        </nav>
         </nav>
         
          
@@ -199,7 +208,7 @@ export default function Home() {
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
 
-       <h1 clssName={styles.description}>
+       <h1 clssName={styles.title}>
         A live streaming hybrid marketplace</h1>
          <p>for retailing platform</p>
 
