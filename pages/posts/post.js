@@ -1,11 +1,11 @@
 import Link from 'next/link';
 
-export default function Post() {
+export default function FirstPost() {
   return (
     <>
-      <h1>Post</h1>
+      <h1>First Post</h1>
       <h2>
-        <Link href="">
+        <Link href="index">
           <a>Back to home</a>
         </Link>
       </h2>
