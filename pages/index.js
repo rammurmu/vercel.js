@@ -17,7 +17,7 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <nav className={styles.nav}>
+        <nav>
          <Link href="/about">
            <a>About</a>
          </Link>
@@ -207,9 +207,8 @@ export default function Home() {
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
 
-       <h2 clssName={styles.description}>
-        A live streaming hybrid marketplace</h2>
-         <p className={styles.description}>for retailing platform</p>
+       <p clssName={styles.description}>
+        A live streaming hybrid marketplace<br />for retailing platform</p>
 
       </div>
       </main>
