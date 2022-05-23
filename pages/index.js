@@ -205,10 +205,11 @@ export default function Home() {
           Backed by{' '}
           <code className={styles.code}>Open Source</code>
         </p>
+        <a
+          href="https://""
         <p className={styles.card}>Get your valuable feedback  ✨</p>
-
-       <p clssName={styles.grid}>
-        A live streaming hybrid marketplace<br />for retailing platform</p>
+       </a>
+       
 
       </div>
       </main>
