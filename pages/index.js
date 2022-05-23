@@ -17,9 +17,9 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <nav className={styles.description}>
+        <nav className={styles.nav}>
          <Link href="/about">
-           <a><code>About</code></a>
+           <a>About</a>
          </Link>{' '}
         
          <Link href="/features">
@@ -39,23 +39,23 @@ export default function Home() {
          </Link>{' '}
         
          <Link href="/pricing">
-           <a></a>
+           <a>Pricing</a>
          </Link>
         
          <Link href="/resources">
-           <a></a>
+           <a>Resources</a>
          </Link> 
         
          <Link href="/blog">
-         <a></a>
+         <a>Blog</a>
          </Link>
         
         <Link href="/contact">
-        <a></a>
+        <a>Contact</a>
         </Link>
        
         <Link href="/mymdx">
-        <a></a>
+        <a>Mdx</a>
         </Link>
       
         </nav>
@@ -198,6 +198,10 @@ export default function Home() {
           <code className={styles.code}>Open Source</code>
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
+
+       <div clssName={styles.description}>
+        <h1>A live streaming hybrid marketplace</h1>
+         <p>for retailing platform</p>
       </div>
       </main>
 
