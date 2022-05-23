@@ -91,7 +91,7 @@ export default function Home() {
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
         </p>
-        <p className={styles.card}>Build the next-generation and the future of e-commerce 🚀</p>
+        <h1 className={styles.description}>Build the next-generation and the future of e-commerce 🚀</h1>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
@@ -206,7 +206,7 @@ export default function Home() {
           <code className={styles.code}>Open Source</code>
         </p>
         
-       
+       <h1 className={styles.description}>A live streaming hybrid platform</h1>
 
       </div>
       </main>
