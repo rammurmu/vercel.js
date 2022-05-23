@@ -67,7 +67,6 @@ export default function Home() {
         <a>Mdx</a>
         </Link>
         </nav>
-        </nav>
         
          
 
@@ -208,9 +207,9 @@ export default function Home() {
         </p>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
 
-       <h1 clssName={styles.title}>
-        A live streaming hybrid marketplace</h1>
-         <p>for retailing platform</p>
+       <h2 clssName={styles.description}>
+        A live streaming hybrid marketplace</h2>
+         <p className={styles.description}>for retailing platform</p>
 
       </div>
       </main>
