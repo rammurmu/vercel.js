@@ -206,7 +206,8 @@ export default function Home() {
           <code className={styles.code}>Open Source</code>
         </p>
         
-       <h1 className={styles.description}>A live streaming hybrid platform</h1>
+       <p className={styles.card}>Get your valuable feedback  ✨</p>
+       <a href="https://"></a>
 
       </div>
       </main>
