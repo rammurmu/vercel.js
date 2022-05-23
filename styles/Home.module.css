@@ -12,15 +12,6 @@
   align-items: center;
 }
 
-.nav {
-  main-height: 25vh;
-  padding: 2rem 0;
-  flex: 1;
-  display: flex;
-  justify-content: centre;
-  align-item: centre;
-}
-
 .footer {
   display: flex;
   flex: 1;
