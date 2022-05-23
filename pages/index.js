@@ -207,6 +207,7 @@ export default function Home() {
         </p>
         <a
           href="https://""
+          className={styles.card}>
         <p className={styles.card}>Get your valuable feedback  ✨</p>
        </a>
        
