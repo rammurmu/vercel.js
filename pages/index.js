@@ -63,8 +63,8 @@ export default function Home() {
         </Link>
         </nav>
         <nav>
-        <Link href="/mymdx">
-        <a>Mdx</a>
+        <Link href="/mdx">
+        <a>MdX</a>
         </Link>
         </nav>
         
