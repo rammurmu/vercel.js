@@ -38,13 +38,7 @@ export default function Buyer() {
           </a>
           </div>
 
-  <div className={styles.Container}>
-      <ButtonSuccess className={styles.ButtonSuccess}>START</Button>
-    </div>
-
-    <div className={styles.container}>
-      <div className={styles.Note}>It is a happy talent to know how to play.</Note>
-</div>
+  <div 
 
         <p className={styles.description}>
           <Link href="/">
