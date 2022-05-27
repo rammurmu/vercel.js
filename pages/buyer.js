@@ -38,6 +38,22 @@ export default function Buyer() {
           </a>
           </div>
 
+const Playground = () => (
+  <Container>
+    <Container row center style={{ justifyContent: 'space-between' }}>
+      <Text h2 noMargin>Play</Text>
+      <Button success>START</Button>
+    </Container>
+
+    <Container>
+      <Note>It is a happy talent to know how to play.</Note>
+    </Container>
+  </Container>
+)
+
+render(Playground)
+
+
         <p className={styles.description}>
           <Link href="/">
             <a>&larr; Go Back</a>
