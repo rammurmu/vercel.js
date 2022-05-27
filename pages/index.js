@@ -75,7 +75,7 @@ export default function Home() {
     <div className={styles.container}>    
     <div className={styles.innerContainer}>
     <h1 className={styles.title}>
-        Introducing the<br /><a href://runash.in">Next Generation<br />And Future of <br />E-Commerce</a>
+        Introducing the<br /><a href="https://runash.in">Next Generation<br />And Future of <br />E-Commerce</a>
     </h1>
 
     <p className={styles.description}>
@@ -86,6 +86,7 @@ export default function Home() {
     <div className={styles.grid}>
     <SignedOut>
       <SignOutCard />
+    </SignedOut>
     <SignedIn>
       <SignedInCard />
    </SignedIn>
