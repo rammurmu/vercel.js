@@ -6,7 +6,8 @@ export default function FirstPost() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Live Blog</h1>
-        <p className={styles.description}>The latest news about RunAsh from the RunAsh team</p>
+        <p className={styles.description}>
+        The latest news about RunAsh from the RunAsh team
         
 
         <h1 className="title">
