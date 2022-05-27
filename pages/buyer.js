@@ -5,17 +5,17 @@ export default function Buyer() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <code className={styles.code}>👏 Welcome to RunAsh.watch</code>
-        <h1 className={styles.description}>📺 Live watch on RunAsh <br />Live on demand</h1>
+        <code className={styles.code}>👏 Welcome to RunAsh.live</code>
+        <h1 className={styles.description}>📺 Live watch<br />and Live on demand</h1>
 
         <div className={styles.description}>{' '}
-        <code className={styles.code}>Go Live watch</code></div>
+        <code className={styles.code}>Watching Now</code></div>
 
-        <h1 className={styles.title}>Whatch Live<a href="https://">Stream</a></h1>
+        <h1 className={styles.title}>Whatched <a href="https://">Live stream</a></h1>
 
           <h2 className={styles.description}>LIVE ON DEAMAND</h2>
 
-          <p className={styles.description}>Whatching some previous live streaming,you can watch some live stream to receive notifications for new live streaming and updats.when the buyer updates the live streaming their organic products on daily basis, you'll see the changes in your personal dashboard.
+          <p className={styles.paragraph}>Whatching some previous live streaming,you can watch some live stream to receive notifications for new live streaming and updats.when the buyer updates the live streaming their organic products on daily basis, you'll see the changes in your personal dashboard.
           Click watch at the top of a video to watch it.</p>
 
           <p className={styles.card}>All Categories</p>
