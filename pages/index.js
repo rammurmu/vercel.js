@@ -83,16 +83,7 @@ export default function Home() {
     <br />
     <br>Real Selling</b>and<b>Real Shopping</b>
     </p>
-    <div className={styles.grid}>
-    <SignedOut>
-      <SignOutCard />
-    </SignedOut>
-    <SignedIn>
-      <SignedInCard />
-   </SignedIn>
-  </div>
- </div>
-</div>
+    
 
     <h1 className={styles.description}>
     Give your store a<br /> real experience <br />on a complete digitization</h1>
