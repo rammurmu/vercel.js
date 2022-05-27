@@ -38,7 +38,7 @@ export default function Buyer() {
           </a>
           </div>
 
-  <div 
+  
 
         <p className={styles.description}>
           <Link href="/">
