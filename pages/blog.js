@@ -5,16 +5,18 @@ export default function FirstPost() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1>First Post</h1>
-        <p className={styles.description}>
+        <h1>Live Blog</h1>
+        <p className={styles.description}>The latest news about RunAsh from the RunAsh team</p>
+        
+
         <h1 className="title">
         Read{' '}
-        <Link href="/posts/first-post">
-          <a>this page!</a>
+        <Link href="/first-post">
+          <a>more &rarr;</a>
        </Link>
        </h1>
 
-          <Link href="/blog">
+          <Link href="/index">
             <a>&larr; Go Back</a>
           </Link>
         </p>
