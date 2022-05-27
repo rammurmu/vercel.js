@@ -92,8 +92,7 @@ export default function Home() {
   </div>
  </div>
 </div>
-)
-}
+
     <h1 className={styles.description}>
     Give your store a<br /> real experience <br />on a complete digitization</h1>
     
