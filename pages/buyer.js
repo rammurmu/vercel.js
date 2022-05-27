@@ -34,7 +34,7 @@ export default function Buyer() {
             href="https://"
             className={styles.card}
           >
-          </p>
+         
           </a>
           </div>
 
