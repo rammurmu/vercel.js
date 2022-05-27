@@ -73,7 +73,6 @@ export default function Home() {
          </nav>
         
     <div className={styles.container}>    
-    <div className={styles.innerContainer}>
     <h1 className={styles.title}>
         Introducing the<a href="https://runash.in">Next Generation And Future of E-Commerce</a>
     </h1>
