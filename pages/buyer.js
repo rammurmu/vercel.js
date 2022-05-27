@@ -37,7 +37,7 @@ export default function Buyer() {
          
           </a>
           </div>
-
+<div>
 const Playground = () => (
   <Container>
     <Container row center style={{ justifyContent: 'space-between' }}>
@@ -52,7 +52,7 @@ const Playground = () => (
 )
 
 render(Playground)
-
+</div>
 
         <p className={styles.description}>
           <Link href="/">
