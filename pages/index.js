@@ -77,9 +77,9 @@ export default function Home() {
     </h2>
 
     <p className={styles.description}>
-     A live streaming hybrid marketplace for
+     A live streaming hybrid marketplace <br />for
     <br />
-    <code>Sell✓</code>&<code>Buy✓</code>
+    <code className={styles.code}>Sell✓</code>{' '}<code className={styles.code}>Buy✓</code>
     </p>
     
 
