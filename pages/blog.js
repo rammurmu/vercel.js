@@ -1,4 +1,4 @@
-import styles from '../styles/main.css'
+import styles from '../styles/Blog.module.css'
 import Link from 'next/link'
 
 export default function FirstPost() {
