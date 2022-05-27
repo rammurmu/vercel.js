@@ -10,8 +10,9 @@ export default function FirstPost() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>First Post</h1>
+      <p>👏Welcome to RunAsh</p>
       <h2>
-        <Link href="index">
+        <Link href="/index">
           <a>Back to home</a>
         </Link>
       </h2>
