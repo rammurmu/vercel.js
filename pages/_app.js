@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <ChakraProvider>
       <Component {...pageProps} />
-    </Chakra provider>
+    </ChakraProvider>
   )  
 }
 
