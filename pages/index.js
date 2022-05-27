@@ -71,8 +71,7 @@ export default function Home() {
            </li>
           </ul>
          </nav>
-        
-    <div className={styles.container}>    
+          
     <h1 className={styles.title}>
         Introducing the<a href="https://runash.in">Next Generation And Future of E-Commerce</a>
     </h1>
