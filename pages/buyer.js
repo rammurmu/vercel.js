@@ -37,17 +37,16 @@ export default function Buyer() {
          
           </a>
           </div>
-<div>
-  <Container className={styles.Container}>
+
+  <div className={styles.Container}>
     <Container row center style={{ justifyContent: 'space-between' }}>
       <Text h2 noMargin>Play</Text>
       <ButtonSuccess className={styles.ButtonSuccess}>START</Button>
-    </Container>
+    </div>
 
-    <Container className={styles.container}>
+    <div className={styles.container}>
       <Note className={styles.Note}>It is a happy talent to know how to play.</Note>
     </Container>
-  </Container>
 </div>
 
         <p className={styles.description}>
