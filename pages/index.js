@@ -81,7 +81,7 @@ export default function Home() {
     <p className={styles.description}>
        RunAsh is a live streaming hybrid marketplace {' '}<br>for retailing</br>
     <br />
-    <br>Real Selling</b>and<b>Real Shopping</b>
+    <b>Real Selling</b>and<b>Real Shopping</b>
     </p>
     
 
