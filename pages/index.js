@@ -122,7 +122,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://about"
             className={styles.card}
           >
             <h2>🎓 About RunAsh &rarr;</h2>
