@@ -18,60 +18,84 @@ export default function Home() {
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <nav>
-         <Link href="/about">
-           <a>About</a>
-         </Link>
-        </nav>
-        <nav>
-         <Link href="/buyer">
-           <a>Buyer</a>
-         </Link>
+          <ul className={styles.list}>
+            <li>
+             <Link href="/about">
+               <a>About</a>
+             </Link>
+            </li>
+            <li>
+             <Link href="/buyer">
+               <a>Buyer</a>
+            </Link>
+           </li>
+           <li>
+             <Link href="/solution">
+               <a>Solution</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/support">
+               <a>Support</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/legal">
+               <a>Legal</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/pricing">
+               <a>Pricing</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/resources">
+               <a>Resources</a>
+             </Link> 
+           </li>
+           <li>
+             <Link href="/blog">
+               <a>Blog</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/contact">
+               <a>Contact</a>
+             </Link>
+           </li>
+           <li>
+             <Link href="/mdx">
+               <a>MdX</a>
+             </Link>
+           </li>
+          </ul>
          </nav>
-        <nav>
-         <Link href="/solution">
-           <a>Solution</a>
-         </Link>
-         </nav>
-         <nav>
-         <Link href="/support">
-           <a>Support</a>
-         </Link>
-         </nav>
-         <nav>
-         <Link href="/legal">
-           <a>Legal</a>
-         </Link>
-         </nav>
-         <nav>
-         <Link href="/pricing">
-           <a>Pricing</a>
-         </Link>
-         </nav>
-        <nav>
-         <Link href="/resources">
-           <a>Resources</a>
-         </Link> 
-        </nav>
-        <nav>
-         <Link href="/blog">
-         <a>Blog</a>
-         </Link>
-        </nav>
-        <nav>
-        <Link href="/contact">
-        <a>Contact</a>
-        </Link>
-        </nav>
-        <nav>
-        <Link href="/mdx">
-        <a>MdX</a>
-        </Link>
-        </nav>
         
-         
+    <div className={styles.container}>    
+    <div className={styles.innerContainer}>
+    <h1 className={styles.title}>
+        Introducing the<br /><a href://runash.in">Next Generation<br />And Future of <br />E-Commerce</a>
+    </h1>
 
-    <h1 className={styles.description}> 
-        Give your store a<br /> real experience <br />on a complete digitization</h1>
+    <p className={styles.description}>
+       RunAsh is a live streaming hybrid marketplace {' '}<br>for retailing</br>
+    <br />
+    <br>Real Selling</b>and<b>Real Shopping</b>
+    </p>
+    <div className={styles.grid}>
+    <SignedOut>
+      <SignOutCard />
+    <SignedIn>
+      <SignedInCard />
+   </SignedIn>
+  </div>
+ </div>
+</div>
+)
+}
+    <h1 className={styles.description}>
+    Give your store a<br /> real experience <br />on a complete digitization</h1>
     
         
     
