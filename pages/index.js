@@ -73,13 +73,13 @@ export default function Home() {
          </nav>
           
     <h2 className={styles.title}>
-        <a href="https://runash.in">INTRODUCING THE NEXT GENERATION & FUTURE OF <br />E-COMMERCE </a>
+        <a href="https://runash.in">Next-gen technology and experience </a>
     </h2>
 
     <p className={styles.description}>
        RunAsh is a live streaming hybrid marketplace for retailing
     <br />
-    <tag>🛒Selling</tag>and<tag>🛍️Shopping</tag>
+    <strong>Selling</strong>and<strong>Shopping</strong>
     </p>
     
 
