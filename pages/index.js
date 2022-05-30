@@ -76,11 +76,11 @@ export default function Home() {
         <a href="https://runash.in">Next-gen technology.<br />experience. </a>
     </h5>
 
-    <div className={styles.cardContent}>
+    <lable className={styles.lable}>
        <code>A live streaming hybrid marketplace for</code>
     <br />
     <code className={styles.code}>Sell✓</code>{' '}<code className={styles.code}>Buy✓</code>
-    </div>
+    </lable>
     
 
     <h5 className={styles.description}>
