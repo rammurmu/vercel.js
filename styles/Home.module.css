@@ -31,7 +31,7 @@
   font-size: 13px;
  }
 
-a.logo {
+.a.logo {
  text-decoration: none;
  color: #000;
  display: inline-flex;
@@ -50,7 +50,7 @@ a.logo {
  }
 
 @media (min-width: 500px) {
- header {
+ .header {
  max-width: 42rem;
  margin: auto;
  padding: 10px 0;
