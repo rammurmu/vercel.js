@@ -80,7 +80,7 @@ export default function Home() {
        A live streaming hybrid marketplace for
     <br />
     <code className={styles.code}>Sell✓</code>{' '}<code className={styles.code}>Buy✓</code>
-    </lable>
+    </div>
     
 
     <h5 className={styles.description}>
