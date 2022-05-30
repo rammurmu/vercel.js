@@ -1,5 +1,7 @@
 import Head from 'next/head'
+import styles from '../styles/Header.module.css'
 import Nav from '../components/Nav'
+import { SignedIn, SignedOut, UserButton } from '@clerk/nextjs'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
