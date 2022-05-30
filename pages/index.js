@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import styles from '../styles/Header.module.css'
 import Nav from '../components/Nav'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -73,9 +72,9 @@ export default function Home() {
           </ul>
          </nav>
           
-    <h2 className={styles.title}>
+    <h5 className={styles.title}>
         <a href="https://runash.in">Next-gen technology.<br />experience. </a>
-    </h2>
+    </h5>
 
     <p className={styles.description}>
      A live streaming hybrid marketplace <br />for
@@ -84,14 +83,14 @@ export default function Home() {
     </p>
     
 
-    <h1 className={styles.description}>
-    Give your store a<br /> real experience <br />on a complete digitization</h1>
+    <h5 className={styles.description}>
+    Give your store a<br /> real experience <br />on a complete digitization</h5>
     
         
     
         
         <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
-        <h2 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h2>
+        <h5 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h5>
        
     </Head>
 
