@@ -73,14 +73,6 @@ export default function Home() {
          </nav>
           
 
-const Header = () => (
-  <header>
-    <Link href="/">
-      <a className="logo" href="/">
-        <Logo />
-      </a>
-    </Link>
-
 
 
   
