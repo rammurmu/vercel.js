@@ -76,9 +76,7 @@ export default function Home() {
         <a href="https://runash.in">Next-gen technology.<br />experience. </a>
     </h5>
 
-    <div className={styles.paragraph}>
-       A live streaming hybrid marketplace for Sell✓ and Buy✓
-    </div>
+    <div className={styles.description}>{' '}<code className={styles.code}>A live streaming hybrid marketplace for Sell✓ & Buy✓</code></div>
     
 
     <h5 className={styles.description}>
