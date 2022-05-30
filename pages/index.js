@@ -78,8 +78,7 @@ export default function Home() {
 
     <div className={styles.grid}>
        A live streaming hybrid marketplace for
-    <br />
-    <code className={styles.code}>Sell✓</code>{' '}<code className={styles.code}>Buy✓</code>
+    <lable className={styles.lable}>Sell✓</lable>{' '}<lable className={styles.lable}>Buy✓</lable>
     </div>
     
 
