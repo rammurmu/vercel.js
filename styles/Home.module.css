@@ -1,7 +1,15 @@
 .container {
   padding: 0 2rem;
 }
-     
+ 
+.nav-link {
+  text-decoration: none;
+}
+
+.active:after {
+  content: ' (current page)';
+}
+    
 .main {
   min-height: 100vh;
   padding: 4rem 0;
