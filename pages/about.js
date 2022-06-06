@@ -31,7 +31,11 @@ export default function About() {
 
         </div>
    
-
+       <h5 className={styles.description}>Backed by{' '}<code>Open Source Supporters</code>
+       <ul>
+       <li><code>MIT</code></li>
+       <li><code>GitHub</code></li>
+       </ul>
         <p className={styles.description}>
           <Link href="/">
             <a>&larr; Go Back</a>
