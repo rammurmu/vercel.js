@@ -33,7 +33,7 @@ export default function About() {
    
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source Supporters</code></p>
        <ul>
-       <code><a href="https://" <className={styles.link}>MIT</a></code>
+       <code>MIT</code>
        <code>GitHub</code>
        </ul>
         <p className={styles.description}>
