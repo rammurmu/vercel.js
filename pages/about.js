@@ -31,10 +31,10 @@ export default function About() {
 
         </div>
    
-       <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source Supporters</code></p>
+       <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <ul>
-       <code>MIT</code>
-       <code>GitHub</code>
+       <code className={styles.code}>MIT</code>{' '}|
+       <code className={styles.code}>GitHub</code>
        </ul>
         <p className={styles.description}>
           <Link href="/">
