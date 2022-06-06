@@ -33,8 +33,8 @@ export default function About() {
    
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <ul>
-       <code className={styles.code}>MIT</code>{' '}|
-       <code className={styles.code}>GitHub</code>
+       <card className={styles.card}>MIT</card>{' '}
+       <card className={styles.card}>GitHub</card>
        </ul>
         <p className={styles.description}>
           <Link href="/">
