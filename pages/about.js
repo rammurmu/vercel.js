@@ -5,8 +5,9 @@ export default function About() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1>About RunAsh</h1>
-        <p className={styles.code}>👏 Welcome to RunAsh family!</p>
+        <h1>About</h1>
+        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.live</code></div>
+        <h5 className={styles.description}>Vision:Enabling and accessing face to face,self made and real experience to access physical reality</h5>
         <div className={styles.grid}>
          <a href="https://" className={styles.card}>
          <h2>Oneliner</h2>
