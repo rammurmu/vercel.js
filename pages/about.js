@@ -31,7 +31,7 @@ export default function About() {
 
         </div>
    
-       <h5 className={styles.description}>Backed by{' '}<code>Open Source Supporters</code>
+       <h5 className={styles.description}>Backed by{' '}<code>Open Source Supporters</code></h5>
        <ul>
        <li><code>MIT</code></li>
        <li><code>GitHub</code></li>
