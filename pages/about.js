@@ -7,7 +7,6 @@ export default function About() {
       <main className={styles.main}>
         <h1>About RunAsh</h1>
         <code className={styles.code}>👏 Welcome to RunAsh family!</p>
-        <hr className={styles.hr}>
         <div className={styles.grid}>
          <a href="https://" className={styles.card}>
          <h2>Oneliner</h2>
