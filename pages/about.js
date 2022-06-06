@@ -30,6 +30,7 @@ export default function About() {
         </a>
 
         </div>
+       <p className={styles.description}>Executive Profiles<p className={styles.paragraph}>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
    
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <ul>
