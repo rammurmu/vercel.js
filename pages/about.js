@@ -29,11 +29,13 @@ export default function About() {
          <p>We are commite to building live streaming platform and new ways to use physical reality experience</p>
         </a>
 
-       <a href=https://" className={styles.description}>
+       <a href="https://" className={styles.description}>
        <h2>Executive Profiles</h2>
        <p>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
        </a>
+
        </div>
+
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <ul>
        <card className={styles.card}>MIT</card>{' '}
