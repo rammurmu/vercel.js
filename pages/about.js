@@ -46,6 +46,60 @@ export default function About() {
        <p><a href="https://mdxjs.com" title="title">MDX</a></p>
        </>
 
+      <>
+        <blockquote>
+         <p>A greater than…</p>
+        </blockquote>
+      </>
+
+     <>
+       <p>
+         A backslash<br />
+         before a line break…
+       </p>
+     </>
+
+    <>
+     <p>
+       Some <code>backticks</code> for inline.
+     </p>
+     <pre><code className="language-javascript">backtick.fences('for blocks')
+     </code></pre>
+    </>
+
+    <>
+     <p>Some <em>asterisks</em> for emphasis.</p>
+    </>
+
+    <>
+      <p>Three asterisks for a thematic break:</p>
+    <hr />
+    </>
+
+    <>
+     <p><img src="/logo.png" alt="Alt text" title="title" /></p>
+   </>
+   
+   <>
+  <ul>
+    <li>asterisks for unordered items</li>
+  </ul>
+  <ol>
+    <li>decimals and a dot for ordered items</li>
+  </ol>
+</>
+
+<>
+  <ol>
+    <li>decimals and a dot for ordered</li>
+  </ol>
+</>
+
+<>
+  <pre><code className="language-javascript">backtick.fences('for blocks')
+  </code></pre>
+</>
+
 
         <p className={styles.description}>
           <Link href="/">
