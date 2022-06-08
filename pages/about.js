@@ -22,7 +22,7 @@ export default function About() {
          <p>Discipline and learning is the backbone of the development of startup journey & culture is our behavior</p>
         </div>
 
-        <divclassName={styles.description}>
+        <div className={styles.description}>
          <h2>What we do</h2>
          <p>We created new model of marketplace where retailers face to face demonstrate & presentation their products with buyers</p>
         </div>
