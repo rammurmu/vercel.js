@@ -6,11 +6,11 @@ export default function Contact() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Contact</h1>
-    <p className={styles.code}>👏Welcome to RunAsh.live</p>
+    <code className={styles.code}>👏Welcome to RunAsh.live</code>
     <div className={styles.grid}>
     <div className={styles.description}>
-        <h2>CONTACTING</h2>
         <p>Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
+
         <>
         <ul>
         <ol>Admin to direct write:admin@runash.in</ol>
@@ -18,6 +18,7 @@ export default function Contact() {
         <ol>Support executive:Support@runash.in</ol>
         </ul>
         </>
+
         <>
         <h2>Headquarters<h2>
         <p>RunAsh Digital Innovation Technologies Private Limited<br />
@@ -25,6 +26,7 @@ export default function Contact() {
         PHONE NO 06542281002<br />
         EMAIL ID admin@runash.in</p>
        </>
+
       </div>
      </div>
         <p className={styles.description}>
