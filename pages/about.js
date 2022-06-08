@@ -9,15 +9,15 @@ export default function About() {
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.live</code></div>
         <h5 className={styles.description}>Vision:Enabling and accessing face to face,self made and real experience to access physical reality</h5>
         <div className={styles.grid}>
-         <a href="https://" className={styles.description}>
+         <div className={styles.description}>
          <h2>Oneliner</h2>
          <p>RunAsh is a live streaming hybrid marketplace for retailing,where retailer face to face demonstrate, presentation their products with buyers </p>
-        </a>
+        </div>
 
-        <a href="https://" className={styles.description}>
+        <div className={styles.description}>
          <h2>Discipline and culture</h2>
          <p>Discipline and learning is the backbone of the development of startup journey & culture is our behavior</p>
-        </a>
+        </div>
 
         <div className={styles.description}>
          <h2>What we do</h2>
