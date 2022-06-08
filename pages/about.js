@@ -7,9 +7,12 @@ export default function About() {
       <main className={styles.main}>
         <h1>About</h1>
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.live</code></div>
+
         <div className={styles.description}>
-        <h2>Vision:Enabling and accessing face to face,self made and real experience to access physical reality</h2>
-        <div className={styles.grid}>
+        <h2>Vision<h2>
+        <p>Enabling and accessing face to face,self made and real experience to access physical reality</p>
+        </div>
+
          <div className={styles.description}>
          <h2>Oneliner</h2>
          <p>RunAsh is a live streaming hybrid marketplace for retailing,where retailer face to face demonstrate, presentation their products with buyers </p>
