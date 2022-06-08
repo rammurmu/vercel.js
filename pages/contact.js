@@ -6,7 +6,7 @@ export default function Contact() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Contact</h1>
-    <code className={styles.code}>👏Welcome to RunAsh.live</code>
+    <p className={styles.code}>👏Welcome to RunAsh.live</p>
     <div className={styles.grid}>
     <div className={styles.description}>
         <h2>CONTACTING</h2>
