@@ -29,76 +29,20 @@ export default function About() {
          <p>We are commite to building live streaming platform and new ways to use physical reality experience</p>
         </a>
 
-       <a href="https://" className={styles.description}>
-       <h2>Executive Profiles</h2>
+       
+       <h2 className={styles.description}>Executive Profiles</h2>
        <p>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
-       </a>
+       
 
        </div>
 
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
-       <ul>
-       <card className={styles.card}>MIT</card>{' '}
-       <card className={styles.card}>GitHub</card>
-       </ul>
-
        <>
-       <p><a href="https://mdxjs.com" title="title">MDX</a></p>
+       <p><a href="https://" title="title">Licence: MIT GitHub</a></p>
+       
        </>
 
-      <>
-        <blockquote>
-         <p>A greater than…</p>
-        </blockquote>
-      </>
-
-     <>
-       <p>
-         A backslash<br />
-         before a line break…
-       </p>
-     </>
-
-    <>
-     <p>
-       Some <code>backticks</code> for inline.
-     </p>
-     <pre><code className="language-javascript">backtick.fences('for blocks')
-     </code></pre>
-    </>
-
-    <>
-     <p>Some <em>asterisks</em> for emphasis.</p>
-    </>
-
-    <>
-      <p>Three asterisks for a thematic break:</p>
-    <hr />
-    </>
-
-    <>
-     <p><img src="/logo.png" alt="Alt text" title="title" /></p>
-   </>
-   
-   <>
-  <ul>
-    <li>asterisks for unordered items</li>
-  </ul>
-  <ol>
-    <li>decimals and a dot for ordered items</li>
-  </ol>
-</>
-
-<>
-  <ol>
-    <li>decimals and a dot for ordered</li>
-  </ol>
-</>
-
-<>
-  <pre><code className="language-javascript">backtick.fences('for blocks')
-  </code></pre>
-</>
+      
 
 
         <p className={styles.description}>
