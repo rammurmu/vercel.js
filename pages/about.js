@@ -16,27 +16,27 @@ export default function About() {
          <p>RunAsh is a live streaming hybrid marketplace for retailing,where retailer face to face demonstrate, presentation their products with buyers </p>
         </a>
 
-        <div className={styles.description}>
+        <a href="https://" className={styles.description}>
          <h2>Discipline and culture</h2>
          <p>Discipline and learning is the backbone of the development of startup journey & culture is our behavior</p>
-        </div>
+        </a>
 
-        <div className={styles.description}>
+        <a href="https://" className={styles.description}>
          <h2>What we do</h2>
          <p>We created new model of marketplace where retailers face to face demonstrate & presentation their products with buyers</p>
-        </div>
+        </a>
 
-        <div className={styles.description}>
+        <a href="https://" className={styles.description}>
          <h2>What we going to make</h2>
          <p>We are commite to building live streaming platform and new ways to use physical reality experience</p>
-        </div>
+        </a>
 
        
-       <div className={styles.description}>
+       <a href="https://" className={styles.description}>
        <H2>Executive Profiles</h2>
        <p>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
+       </a>
        </div>
-       
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <>
        <p><a href="https://" title="title">Licence: MIT GitHub</a></p>
