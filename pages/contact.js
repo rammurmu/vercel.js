@@ -5,24 +5,25 @@ export default function Contact() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1>Contact Page</h1>
+        <h1>Contact</h1>
     <code className={styles.code}>👏Welcome to RunAsh.live</code>
     <div className={styles.grid}>
     <div className={styles.description}>
-        <h2>CONTACTING SUPPORT</h2>
-        <p>ELSEWHERE ON THE INTERNET <br />Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
+        <h2>CONTACTING</h2>
+        <p>Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
         <>
         <ul>
-        <ol>Admin to direct write:admin@runash.in</ol>
-        <ol>Sales excutive:sales@runash.in</ol>
-        <ol>Support executive:Support@runash.in</ol>
+        <li>Admin to direct write:admin@runash.in</li>
+        <li>Sales excutive:sales@runash.in</li>
+        <li>Support executive:Support@runash.in</li>
         </ul>
         </>
         <>
-        <p>Headquarters<br />RunAsh Digital Innovation Technologies Private Limited<br />
+        <h2>Headquarters<h2>
+        <P>RunAsh Digital Innovation Technologies Private Limited<br />
         Bokaro Industrial Area BIADA Street Jharkhand India 827014<br />
         PHONE NO 06542281002<br />
-        EMAIL ID admin@runash.in</p>
+        EMAIL ID <a href="https://" admin@runash.in</a></p>
        </>
       </div>
      </div>
