@@ -13,9 +13,9 @@ export default function Contact() {
         <p>Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
         <>
         <ul>
-        <li>Admin to direct write:admin@runash.in</li>
-        <li>Sales excutive:sales@runash.in</li>
-        <li>Support executive:Support@runash.in</li>
+        <ol>Admin to direct write:admin@runash.in</ol>
+        <ol>Sales excutive:sales@runash.in</ol>
+        <ol>Support executive:Support@runash.in</ol>
         </ul>
         </>
         <>
