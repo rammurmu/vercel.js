@@ -23,7 +23,7 @@ export default function Contact() {
         <P>RunAsh Digital Innovation Technologies Private Limited<br />
         Bokaro Industrial Area BIADA Street Jharkhand India 827014<br />
         PHONE NO 06542281002<br />
-        EMAIL ID <a href="https://" admin@runash.in</a></p>
+        EMAIL ID admin@runash.in</p>
        </>
       </div>
      </div>
