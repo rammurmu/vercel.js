@@ -19,10 +19,10 @@ export default function About() {
          <p>Discipline and learning is the backbone of the development of startup journey & culture is our behavior</p>
         </a>
 
-        <a href="https://" className={styles.description}>
+        <div className={styles.description}>
          <h2>What we do</h2>
          <p>We created new model of marketplace where retailers face to face demonstrate & presentation their products with buyers</p>
-        </a>
+        </div>
 
         <div className={styles.description}>
          <h2>What we going to make</h2>
@@ -30,7 +30,8 @@ export default function About() {
         </div>
 
        
-       <h2 className={styles.description}>Executive Profiles</h2>
+       <div className={styles.description}>
+       <h2>Executive Profiles</h2>
        <p>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
        
 
