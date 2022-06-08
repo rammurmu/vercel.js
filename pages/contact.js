@@ -10,7 +10,7 @@ export default function Contact() {
     <div className={styles.grid}>
     <div className={styles.description}>
         <h2>CONTACTING SUPPORT</h2>
-        <p>ELSEWHERE ON THE INTERNET <br />Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash<br />
+        <p>ELSEWHERE ON THE INTERNET <br />Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
         <>
         <ul>
         <ol>Admin to direct write:admin@runash.in</ol>
@@ -19,8 +19,7 @@ export default function Contact() {
         </ul>
         </>
         <>
-        <p>Headquarters</p>
-        <p>RunAsh Digital Innovation Technologies Private Limited<br />
+        <p>Headquarters<br />RunAsh Digital Innovation Technologies Private Limited<br />
         Bokaro Industrial Area BIADA Street Jharkhand India 827014<br />
         PHONE NO 06542281002<br />
         EMAIL ID admin@runash.in</p>
