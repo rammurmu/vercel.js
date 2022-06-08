@@ -37,7 +37,7 @@ export default function About() {
        <H2>Executive Profiles</h2>
        <p>The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. & changing the nature of retailing & redefine the business mode</p>
        </div>
-       
+       </div>
        <p className={styles.description}>Backed by{' '}<code className={styles.code}>Open Source </code>Supporters</p>
        <>
        <p><a href="https://" title="title">Licence: MIT GitHub</a></p>
