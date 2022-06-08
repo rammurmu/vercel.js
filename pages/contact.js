@@ -6,7 +6,7 @@ export default function Contact() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Contact Page</h1>
-    <p className={styles.card}>👏Welcome to RunAsh.live</p>
+    <code className={styles.code}>👏Welcome to RunAsh.live</code>
     <div className={styles.grid}>
     <div className={styles.description}>
         <h2>CONTACTING SUPPORT</h2>
@@ -14,7 +14,7 @@ export default function Contact() {
         <>
         <ul>
         <ol>Admin to direct write:admin@runash.in</ol>
-        <ol>Sales ecutive:sales@runash.in</ol>
+        <ol>Sales excutive:sales@runash.in</ol>
         <ol>Support executive:Support@runash.in</ol>
         </ul>
         </>
