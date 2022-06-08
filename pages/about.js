@@ -24,10 +24,10 @@ export default function About() {
          <p>We created new model of marketplace where retailers face to face demonstrate & presentation their products with buyers</p>
         </a>
 
-        <a href="https://" className={styles.description}>
+        <div className={styles.description}>
          <h2>What we going to make</h2>
          <p>We are commite to building live streaming platform and new ways to use physical reality experience</p>
-        </a>
+        </div>
 
        
        <h2 className={styles.description}>Executive Profiles</h2>
