@@ -4,7 +4,6 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
-import Header from '../components/Header'
 
 export default function Home() {
   return (
@@ -18,7 +17,7 @@ export default function Home() {
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <nav>
-          <ul className={styles.list}>
+          <ul className={styles.grid}>
             <li>
              <Link href="/about">
                <a>About</a>
