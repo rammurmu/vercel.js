@@ -29,7 +29,7 @@ export default function Home() {
             </Link>
            </li>
            <li>
-             <Link href="/solution">
+             <Link href="/Faq">
                <a>Solution</a>
              </Link>
            </li>
@@ -49,7 +49,7 @@ export default function Home() {
              </Link>
            </li>
            <li>
-             <Link href="/resources">
+             <Link href="/selller">
                <a>Resources</a>
              </Link> 
            </li>
