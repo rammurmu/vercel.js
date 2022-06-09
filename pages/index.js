@@ -30,7 +30,7 @@ export default function Home() {
            </li>
            <li>
              <Link href="/Faq">
-               <a>FAQ</a>
+               <a>Faq</a>
              </Link>
            </li>
            <li>
@@ -49,8 +49,8 @@ export default function Home() {
              </Link>
            </li>
            <li>
-             <Link href="/selller">
-               <a>seller</a>
+             <Link href="/seller">
+               <a>Seller</a>
              </Link> 
            </li>
            <li>
