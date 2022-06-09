@@ -1,7 +1,7 @@
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
-export default function FAQ() {
+export default function Faq() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
