@@ -5,7 +5,7 @@ export default function FAQ() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1>Frequently Asked Questions</h1>
+        <h1>FAQ</h1>
        
         <p className={styles.description}>
           <Link href="/">
