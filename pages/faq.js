@@ -6,10 +6,7 @@ export default function FAQ() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Frequently Asked Questions</h1>
-        <>
-        <h2>How does it work<h2>
-        <p>Learn more</p>
-        </>
+       
         <p className={styles.description}>
           <Link href="/">
             <a>&larr; Go Back</a>
