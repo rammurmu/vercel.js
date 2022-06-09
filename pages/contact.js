@@ -12,11 +12,11 @@ export default function Contact() {
         <p>Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
 
         <>
-        <ol className={styles.description}>
+        <ul className={styles.description}>
         <li>Admin to direct write:admin@runash.in</li>
         <li>Sales excutive:sales@runash.in</li>
         <li>Support executive:Support@runash.in</li>
-        </ol>
+        </ul>
         </>
 
         <>
