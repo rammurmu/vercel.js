@@ -13,9 +13,9 @@ export default function Contact() {
 
         <>
         <ul className={styles.description}>
-        <li>Admin to direct write:admin@runash.in</li>
-        <li>Sales excutive:sales@runash.in</li>
-        <li>Support executive:Support@runash.in</li>
+        <li>admin@runash.in</li>
+        <li>sales@runash.in</li>
+        <li>support@runash.in</li>
         </ul>
         </>
 
@@ -23,8 +23,8 @@ export default function Contact() {
         <p><strong>Headquarters</strong><br />
         RunAsh Digital Innovation Technologies Private Limited<br />
         Bokaro Industrial Area BIADA Street Jharkhand India 827014<br />
-        PHONE NO 06542281002<br />
-        EMAIL ID admin@runash.in</p>
+        📠 06542281002<br />
+        ✉️ admin@runash.in</p>
        </>
 
       </div>
