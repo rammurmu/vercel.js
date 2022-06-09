@@ -12,15 +12,15 @@ export default function Contact() {
         <p>Before contacting us , please check the frequently asked questions Here are contact emails for different part of runash</p>
 
         <>
-        <ul>
-        <ol>Admin to direct write:admin@runash.in</ol>
-        <ol>Sales excutive:sales@runash.in</ol>
-        <ol>Support executive:Support@runash.in</ol>
-        </ul>
+        <ol className={styles.description}>
+        <li>Admin to direct write:admin@runash.in</li>
+        <li>Sales excutive:sales@runash.in</li>
+        <li>Support executive:Support@runash.in</li>
+        </ol>
         </>
 
         <>
-        <p>Headquarters<br />
+        <p><strong>Headquarters</strong><br />
         RunAsh Digital Innovation Technologies Private Limited<br />
         Bokaro Industrial Area BIADA Street Jharkhand India 827014<br />
         PHONE NO 06542281002<br />
