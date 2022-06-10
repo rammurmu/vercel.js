@@ -10,7 +10,25 @@ export default function Faq() {
          <p className={styles.description}>We have included some frequently asked questions are commonly started in runash.in</p>
         </>
         <>
-         <p className={styles.text}>How live streaming works?</p>
+         <p className={styles.text}>How does the runash live streaming platform works?</p>
+        </>
+        <>
+         <p className={styles.text}>How to access runash live streaming?</p>
+        </>
+        <>
+         <p className={styles.text}>How  to register runash.live?</p>
+        </>
+        <>
+         <p className={styles.text}>How to setup seller account id?</p>
+        </>
+        <>
+         <p className={styles.text}>How does influencers community works?</p>
+        </>
+        <>
+         <p className={styles.text}>How to shopping schedule?</p>
+        </>
+        <>
+         <p className={styles.text}>How to schedule a live streaming works?</p>
         </>
 
         <p className={styles.description}>
