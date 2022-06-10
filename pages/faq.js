@@ -9,7 +9,9 @@ export default function Faq() {
         <>
          <p className={styles.description}>We have included some frequently asked questions are commonly started in runash.in</p>
         </>
-
+        <>
+         <p className={styles.text}>How live streaming works?</p>
+        </>
 
         <p className={styles.description}>
           <Link href="/">
