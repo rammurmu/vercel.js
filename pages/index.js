@@ -226,7 +226,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            © 2022 RunAsh {' '}
+            MIT GitHub {' '}
           <span className={styles.logo}>
             <Image src="vercel.svg" alt="" width={72} height={16} />
           </span>
@@ -234,21 +234,22 @@ export default function Home() {
       
 
 <footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
-    <footerGroup className={styles.footerGroup}><title>Company</title>
+    <footerGroup className={styles.footerGroup}>Company>
       <a href="#">Home</a>
       <a href="#">About</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}><title>Product</title>
+    <footerGroup className={styles.footerGroup}>Product>
       <a href="#">Pricing</a>
+      <a href="#">FAQ</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}><title>Education</title>
+    <footerGroup className={styles.footerGroup}>Education>
       <a href="#">Docs</a>
       <a href="#">Guides</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}><title>More</title>
+    <footerGroup className={styles.footerGroup}>More>
       <a href="#">OOS</a>
       <a href="#">Live</a>
     </footerGroup>
