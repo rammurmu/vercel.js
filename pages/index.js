@@ -231,7 +231,7 @@ export default function Home() {
             <Image src="vercel.svg" alt="" width={72} height={16} />
           </span>
         </a>
-      </footer>
+      
 
 <footer className={styles.subfooter}>Copyright © Vercel 2020. All rights reserved.</footer>
     <footerGroup className={styles.footerGroup}><title>Company</title>
@@ -253,7 +253,7 @@ export default function Home() {
       <a href="#">Design System</a>
     </footerGroup>
 </footer>
-
+</footer>
 
 
 
