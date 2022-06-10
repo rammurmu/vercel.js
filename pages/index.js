@@ -232,38 +232,28 @@ export default function Home() {
           </span>
         </a>
       </footer>
-<Footer subFooter="Copyright © Vercel 2020. All rights reserved.">
-    <FooterGroup title="Company">
-      <FooterLink href="#">Home</FooterLink>
-      <FooterLink href="#">About</FooterLink>
-      <FooterLink href="#">Careers</FooterLink>
-      <FooterLink href="#">Partners</FooterLink>
-      <FooterLink href="#">Blog</FooterLink>
-      <FooterLink href="#">Next.js Conf</FooterLink>
-    </FooterGroup>
+<div>
+<footer className={styles.subfooter}>Copyright © Vercel 2020. All rights reserved.</footer>
+    <footerGroup className={styles.title}>Company>
+      <footerLink href="#">Home</footerLink>
+      <footerLink href="#">About</footerLink>
+    </footerGroup>
 
-    <FooterGroup title="Product">
-      <FooterLink href="#">Pricing</FooterLink>
-      <FooterLink href="#">Vercel for GitHub</FooterLink>
-      <FooterLink href="#">Vercel for GitLab</FooterLink>
-      <FooterLink href="#">Vercel for Bitbucket</FooterLink>
-      <FooterLink href="#">Vercel Edge Network</FooterLink>
-      <FooterLink href="#">Integrations Marketplace</FooterLink>
-      <FooterLink href="#">Command-Line</FooterLink>
-    </FooterGroup>
+    <footerGroup className={styles.title}>Product>
+      <footerLink href="#">Pricing</footerLink>
+    </footerGroup>
 
-    <FooterGroup title="Education">
-      <FooterLink href="#">Documentation</FooterLink>
-      <FooterLink href="#">Guides</FooterLink>
-      <FooterLink href="#">Support</FooterLink>
-    </FooterGroup>
+    <footerGroup className={styles.title}>Education>
+      <footerLink href="#">Documentation</footerLink>
+      <footerLink href="#">Guides</footerLink>
+    </footerGroup>
 
-    <FooterGroup title="More">
-      <FooterLink href="#">Open Source Software</FooterLink>
-      <FooterLink href="#">Design System</FooterLink>
-    </FooterGroup>
-</Footer>
-
+    <footerGroup className={styles.title}>More>
+      <footerLink href="#">Open Source Software</footerLink>
+      <footerLink href="#">Design System</footerLink>
+    </footerGroup>
+</footer>
+</div>
 
 
 
