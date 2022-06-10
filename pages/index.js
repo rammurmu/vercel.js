@@ -233,7 +233,7 @@ export default function Home() {
         </a>
       
 
-<footer className={styles.subfooter}>Copyright © Vercel 2020. All rights reserved.</footer>
+<footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
     <footerGroup className={styles.footerGroup}><title>Company</title>
       <a href="#">Home</a>
       <a href="#">About</a>
@@ -244,13 +244,13 @@ export default function Home() {
     </footerGroup>
 
     <footerGroup className={styles.footerGroup}><title>Education</title>
-      <a href="#">Documentation</a>
+      <a href="#">Docs</a>
       <a href="#">Guides</a>
     </footerGroup>
 
     <footerGroup className={styles.footerGroup}><title>More</title>
-      <a href="#">Open Source Software</a>
-      <a href="#">Design System</a>
+      <a href="#">OOS</a>
+      <a href="#">Live</a>
     </footerGroup>
 </footer>
 
