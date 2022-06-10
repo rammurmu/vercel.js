@@ -232,28 +232,28 @@ export default function Home() {
           </span>
         </a>
       </footer>
-<div>
+
 <footer className={styles.subfooter}>Copyright © Vercel 2020. All rights reserved.</footer>
-    <footerGroup className={styles.title}>Company>
-      <footerLink href="#">Home</footerLink>
-      <footerLink href="#">About</footerLink>
+    <footerGroup className={styles.footerGroup}><title>Company</title>
+      <a href="#">Home</a>
+      <a href="#">About</a>
     </footerGroup>
 
-    <footerGroup className={styles.title}>Product>
-      <footerLink href="#">Pricing</footerLink>
+    <footerGroup className={styles.footerGroup}><title>Product</title>
+      <a href="#">Pricing</a>
     </footerGroup>
 
-    <footerGroup className={styles.title}>Education>
-      <footerLink href="#">Documentation</footerLink>
-      <footerLink href="#">Guides</footerLink>
+    <footerGroup className={styles.footerGroup}><title>Education</title>
+      <a href="#">Documentation</a>
+      <a href="#">Guides</a>
     </footerGroup>
 
-    <footerGroup className={styles.title}>More>
-      <footerLink href="#">Open Source Software</footerLink>
-      <footerLink href="#">Design System</footerLink>
+    <footerGroup className={styles.footerGroup}><title>More</title>
+      <a href="#">Open Source Software</a>
+      <a href="#">Design System</a>
     </footerGroup>
 </footer>
-</div>
+
 
 
 
