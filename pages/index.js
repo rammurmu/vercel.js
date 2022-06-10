@@ -253,7 +253,7 @@ export default function Home() {
       <a href="#">Design System</a>
     </footerGroup>
 </footer>
-</footer>
+
 
 
 
