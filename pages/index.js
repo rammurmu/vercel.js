@@ -234,22 +234,22 @@ export default function Home() {
       
 
 <footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
-    <footerGroup className={styles.footerGroup}>Company>
+    <footerGroup className={styles.footerGroup}>Company
       <a href="#">Home</a>
       <a href="#">About</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}>Product>
+    <footerGroup className={styles.footerGroup}>Solution
       <a href="#">Pricing</a>
       <a href="#">FAQ</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}>Education>
+    <footerGroup className={styles.footerGroup}>More
       <a href="#">Docs</a>
       <a href="#">Guides</a>
     </footerGroup>
 
-    <footerGroup className={styles.footerGroup}>More>
+    <footerGroup className={styles.footerGroup}>Legal
       <a href="#">OOS</a>
       <a href="#">Live</a>
     </footerGroup>
