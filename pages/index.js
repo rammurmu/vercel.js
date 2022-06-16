@@ -71,7 +71,13 @@ export default function Home() {
           </ul>
          </nav>
           
-
+<div className="menu-active-state-example">
+ <Menu>
+   <MenuItem isActive><a>Home</a></MenuItem>
+   <MenuItem><a>About</a></MenuItem>
+   <MenuItem><a>contact</a></MenuItem>
+</Menu>
+</div>
 
 
   
