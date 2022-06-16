@@ -16,12 +16,12 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.menu-active-state-example}>
-          <Menu>
-            <MenuItem isActive><a>Home</a></MenuItem>
-            <MenuItem><a>About</a></MenuItem>
-            <MenuItem><a>contact</a></MenuItem>
-          </Menu>
+        <div className={styles.MenuGroup}>
+          <MenuGroup>
+            <MenuGroup><a>Home</a></MenuGroup>
+            <MenuGroup><a>About</a></MenuGroup>
+            <MenuGroup><a>contact</a></MenuGroup>
+          </MenuGroup>
         </div>
         <nav>
           <ul className={styles.grid}>
