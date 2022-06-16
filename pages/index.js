@@ -19,7 +19,7 @@ export default function Home() {
         <div className={styles.menu}>
 
         <nav>
-          <ul className={styles.grid}>
+          <ul className={styles.list}>
             <li>
              <Link href="/about">
                <a>About</a>
