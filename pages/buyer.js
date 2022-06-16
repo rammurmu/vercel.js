@@ -37,15 +37,7 @@ export default function Buyer() {
          
           </a>
           </div>
-<iframe>
- <Video
-   src={
-   'https://assets.vercel.com/video/upload/v1542426673/front/design/examples/live-support.mp4'
-}
-  width={2000 / 3.5}
-  height={1300 / 3.5}
-/>
-</iframe>
+
 
         <p className={styles.description}>
           <Link href="/">
