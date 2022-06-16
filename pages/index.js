@@ -17,14 +17,6 @@ export default function Home() {
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <div className={styles.menu}>
-          
-            <a href="#">Home</a>
-          >
-            <a href="#">About</a>
-          >
-            <a href="#">contact</a>
-         
-        </div>
 
         <nav>
           <ul className={styles.grid}>
@@ -80,7 +72,7 @@ export default function Home() {
            </li>
           </ul>
          </nav>
-          
+         </div> 
 
 
 
