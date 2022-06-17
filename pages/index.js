@@ -69,7 +69,7 @@ export default function Home() {
            </li>
            <li>
              <Link href="/my/mdx/pages">
-               <a><Button />MdX<Button /></a>
+               <a>MdX</a>
              </Link>
            </li>
           </ul>
@@ -85,7 +85,12 @@ export default function Home() {
     Give your store a<br /> real experience <br />on a complete digitization</h5>
     
   
-      
+      <Image
+        src="/me.png"
+        alt="Picture of the author"
+        width={500}
+        height={500}
+      />
       
     
 
