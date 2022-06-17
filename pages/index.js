@@ -69,7 +69,7 @@ export default function Home() {
            </li>
            <li>
              <Link href="/my/mdx/pages">
-               <a><Button />MdX</a>
+               <a><Button />MdX<Button /></a>
              </Link>
            </li>
           </ul>
