@@ -84,10 +84,7 @@ export default function Home() {
     <h5 className={styles.description}>
     Give your store a<br /> real experience <br />on a complete digitization</h5>
     
-   <>
-      <h1>Hello World</h1>
-      <Button />
-    </>
+  
         
     
         
