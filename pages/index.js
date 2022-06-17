@@ -84,7 +84,7 @@ export default function Home() {
     <h5 className={styles.description}>
     Give your store a<br /> real experience <br />on a complete digitization</h5>
     
-   <button className={styles.button}>Sign In
+   <div className={styles.button}>Sign In</div>
 
         
     
