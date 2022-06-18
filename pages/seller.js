@@ -6,7 +6,7 @@ export default function Seller() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1>Seller</h1>
-        <code className={styles.description}><code>👏 Welcome to runash.live</code>
+        <div className={styles.description}><code className={styles.code}>👏 Welcome to runash.live</code></div>
         <h2 className={styles.description}>
         Give your store a<br /> real experience <br />on a complete digitization</h2>
         <p>Schedule sell & buy on real experience</p>
