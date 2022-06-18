@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
         
         
-       <div className={styles.cardContent}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
+       <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <div className={styles.centre}>
 
@@ -77,15 +77,8 @@ export default function Home() {
 
 
 
-  
-    
-
-    <h5 className={styles.description}>
-    Give your store a<br /> real experience <br />on a complete digitization</h5>
-   
-
         
-        <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
+        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live on RunAsh </code></div>   
         <h5 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h5>
        
     </Head>
@@ -215,8 +208,13 @@ export default function Home() {
           <code className={styles.code}>Open Source</code>
         </p>
         
-       <p className={styles.card}>Get your valuable feedback  ✨
-       <a href="https://Google.form.com"></a></p>
+    
+       <a
+         href="https://Google.form.com">
+         className={styles.card}>
+       >
+         <p>Get your valuable feedback ✨ &rarr;</p>
+       </a>
 
       </div>
       </main>
