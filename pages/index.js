@@ -234,12 +234,8 @@ export default function Home() {
         </a>
       
 
-<footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
+     <footer className={styles.footer}>
+      Copyright © RunAsh 2022. All rights reserved.</footer>
  
-
-
-
-
-    </div>
   )
 }
