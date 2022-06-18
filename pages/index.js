@@ -211,7 +211,7 @@ export default function Home() {
     
        <a
          href="https://Google.form.com">
-         <p className={styles.cardContent}>Get your valuable feedback ✨ &rarr;</p>
+         <p className={styles.card}>Get your valuable feedback ✨ &rarr;</p>
        </a>
 
       </div>
