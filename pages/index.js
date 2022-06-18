@@ -203,17 +203,6 @@ export default function Home() {
           </a>
         </div>
 
-        <p className={styles.description}>
-        Schedule sell & buy</p>
-        
-   
-
-
-
-
-
-
-
 
         <div>
         <p className={styles.description}>
