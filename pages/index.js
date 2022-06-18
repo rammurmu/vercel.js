@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
         
         
-       <div className={styles.label}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
+       <div className={styles.cardContent}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
         <div className={styles.centre}>
 
