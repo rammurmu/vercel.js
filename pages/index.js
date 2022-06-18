@@ -203,8 +203,8 @@ export default function Home() {
           </a>
         </div>
 
-        <h5 className={styles.description}>
-        Give your store a<br /> real experience <br />on a complete digitization</h5>
+        <Text className={styles.Text}>
+        Give your store a<br /> real experience <br />on a complete digitization</Text>
         
    
 
