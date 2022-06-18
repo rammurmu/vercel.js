@@ -80,13 +80,13 @@ export default function Home() {
   
     
 
-    <h1 className={styles.description}>
+    <h1 className={styles.title}>
     Give your store a<br /> real experience <br />on a complete digitization</h1>
    
 
         
         <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
-        <h1 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h1>
+        <h1 className={styles.title}>Where the retailers <br />Build own made<br />Live streaming store</h1>
        
     </Head>
 
