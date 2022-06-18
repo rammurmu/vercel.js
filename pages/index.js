@@ -204,7 +204,7 @@ export default function Home() {
         </div>
 
         <p className={styles.description}>
-        Schedule sell & buy on real experience</p>
+        Schedule sell & buy</p>
         
    
 
