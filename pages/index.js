@@ -227,16 +227,11 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            MIT GitHub {' '}
+            Copyright © RunAsh 2022.All rights reserved {' '}
           <span className={styles.logo}>
             <Image src="vercel.svg" alt="" width={72} height={16} />
           </span>
         </a>
-      
-
-     <footer className={styles.footer}>
-      Copyright © RunAsh 2022. All rights reserved.</footer>
      </footer>
-    </div>
   )
 }
