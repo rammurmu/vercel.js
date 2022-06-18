@@ -15,9 +15,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
         
         
-       <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
+       <div className={styles.label}>{props.lable}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.centre}>
+        <div className={styles.centreLink}>
 
         <nav>
           <ul className={styles.list}>
@@ -80,13 +80,13 @@ export default function Home() {
   
     
 
-    <h1 className={styles.title}>
-    Give your store a<br /> real experience <br />on a complete digitization</h1>
+    <h5 className={styles.description}>
+    Give your store a<br /> real experience <br />on a complete digitization</h5>
    
 
         
         <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
-        <h1 className={styles.title}>Where the retailers <br />Build own made<br />Live streaming store</h1>
+        <h5 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h5>
        
     </Head>
 
