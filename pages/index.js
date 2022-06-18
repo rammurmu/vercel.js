@@ -212,7 +212,6 @@ export default function Home() {
        <a
          href="https://Google.form.com">
          className={styles.card}>
-       >
          <p>Get your valuable feedback ✨ &rarr;</p>
        </a>
 
