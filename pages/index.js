@@ -236,6 +236,7 @@ export default function Home() {
 
      <footer className={styles.footer}>
       Copyright © RunAsh 2022. All rights reserved.</footer>
- 
+     </footer>
+    </div>
   )
 }
