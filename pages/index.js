@@ -82,26 +82,8 @@ export default function Home() {
 
     <h5 className={styles.description}>
     Give your store a<br /> real experience <br />on a complete digitization</h5>
-    
-  
-      <Image
-        src="/vercel.svg"
-        alt="Picture of the author"
-        width={100}
-        height={100}
-      />
-      
-    <Image
-        alt="vercel.svg"
-        src="https://vercel.svg"
-        width={100}
-        height={100}
-      />
+   
 
-    
-
-        
-    
         
         <div className={styles.description}>{' '}<code className={styles.code}>📽️Go live on RunAsh </code></div>   
         <h5 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h5>
@@ -252,27 +234,8 @@ export default function Home() {
         </a>
       
 
-<footer className={styles.footer}>Copyright © RunAsh 2022. All rights reserved.</footer>
-    <footer className={styles.footer}>Company
-      <a href="#">Home</a>
-      <a href="#">About</a>
-    </footer>
-
-    <footer className={styles.footer}>Solution
-      <a href="#">Pricing</a>
-      <a href="#">FAQ</a>
-    </footer>
-
-    <footer className={styles.footer}>More
-      <a href="#">Docs</a>
-      <a href="#">Guides</a>
-    </footer>
-
-    <footer className={styles.footer}>Legal
-      <a href="#">OOS</a>
-      <a href="#">Live</a>
-    </footer>
-</footer>
+<footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
+ 
 
 
 
