@@ -85,15 +85,15 @@ export default function Home() {
     
   
       <Image
-        src="/Next.js logo"
+        src="/vercel.svg"
         alt="Picture of the author"
         width={100}
         height={100}
       />
       
     <Image
-        alt="Next.js logo"
-        src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js-bg.png"
+        alt="vercel.svg"
+        src="https://vercel.svg"
         width={100}
         height={100}
       />
@@ -252,26 +252,26 @@ export default function Home() {
         </a>
       
 
-<footer className={styles.subfooter}>Copyright © RunAsh 2022. All rights reserved.</footer>
-    <footerGroup className={styles.footerGroup}>Company
+<footer className={styles.footer}>Copyright © RunAsh 2022. All rights reserved.</footer>
+    <footer className={styles.footer}>Company
       <a href="#">Home</a>
       <a href="#">About</a>
-    </footerGroup>
+    </footer>
 
-    <footerGroup className={styles.footerGroup}>Solution
+    <footer className={styles.footer}>Solution
       <a href="#">Pricing</a>
       <a href="#">FAQ</a>
-    </footerGroup>
+    </footer>
 
-    <footerGroup className={styles.footerGroup}>More
+    <footer className={styles.footer}>More
       <a href="#">Docs</a>
       <a href="#">Guides</a>
-    </footerGroup>
+    </footer>
 
-    <footerGroup className={styles.footerGroup}>Legal
+    <footer className={styles.footer}>Legal
       <a href="#">OOS</a>
       <a href="#">Live</a>
-    </footerGroup>
+    </footer>
 </footer>
 
 
