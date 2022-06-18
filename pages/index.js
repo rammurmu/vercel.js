@@ -202,6 +202,19 @@ export default function Home() {
             </p>
           </a>
         </div>
+
+        <h5 className={styles.description}>
+        Give your store a<br /> real experience <br />on a complete digitization</h5>
+        
+   
+
+
+
+
+
+
+
+
         <div>
         <p className={styles.description}>
           Backed by{' '}
