@@ -204,7 +204,7 @@ export default function Home() {
         </div>
 
         <p className={styles.description}>
-        Give your store a<br /> real experience <br />on a complete digitization</p>
+        Give your store a real experience on a complete digitization</p>
         
    
 
