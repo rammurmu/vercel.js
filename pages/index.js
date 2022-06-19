@@ -102,7 +102,7 @@ export default function Home() {
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
         </p>
-        <div className={styles.card}><code className={styles.code}>Real life experience🤷</code></div>
+        <div className={styles.card}><code className={styles.code}>Real life experience</code></div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
@@ -146,9 +146,9 @@ export default function Home() {
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>🧗Live support &rarr;</h2>
+            <h2>📱RunAsh mobile &rarr;</h2>
             <p>
-              24 x 7 x 365 day live support on runash  executive
+              Available for ISO and Android 
             </p>
           </a>
 
