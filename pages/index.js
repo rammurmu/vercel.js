@@ -148,7 +148,7 @@ export default function Home() {
           >
             <h2>📱RunAsh mobile &rarr;</h2>
             <p>
-              Available for ISO and Android 
+              Available for IOS and Android 
             </p>
           </a>
 
