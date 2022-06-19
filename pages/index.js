@@ -78,17 +78,20 @@ export default function Home() {
 
 
         
-           
-        <h1 className={styles.title}>Physical<br />Reality<br/>Experience</h1>
+        <main className={styles.main}>  
+        <h1 className={styles.title}>Live retail streaming platform</h1>
         <p className={styles.description}>
           Where the retailers build own made live streaming store</p>
+        <a 
+          https="https://">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
+        </a>
     </Head>
 
        
         <main className={styles.main}>
         <h1 className={styles.title}>
-          Live retail <a href="https://">streaming</a>
+          Schedule <a href="https://">Buy & Sell</a>
         </h1>
         
        
@@ -97,7 +100,7 @@ export default function Home() {
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
         </p>
-        <p className={styles.card}>Build the next-generation and the future of e-commerce 🚀</p>
+        <p className={styles.card}><code>Build the new ways to use physical reality</code></p>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
