@@ -85,7 +85,7 @@ export default function Home() {
         <p className={styles.description}>
           Where the retailers build own made live streaming store</p>
         <a 
-          https="https://">
+          href="https://">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
         </a>
     </Head>
