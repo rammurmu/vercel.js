@@ -78,7 +78,7 @@ export default function Home() {
 
 
         
-        <main className={styles.main}>  
+        <main className={styles.title}>  
         <h1 className={styles.title}>
           A live retail streaming platform
         </h1>
@@ -86,7 +86,7 @@ export default function Home() {
           Where the retailers build own made live streaming store</p>
         <a 
           https="https://">
-        <code className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></code>
+        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
         </a>
     </Head>
 
