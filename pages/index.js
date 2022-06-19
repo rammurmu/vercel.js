@@ -78,7 +78,7 @@ export default function Home() {
 
 
         
-        <main className={styles.title}>  
+         
         <h1 className={styles.title}>
           A live retail streaming platform
         </h1>
