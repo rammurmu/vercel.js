@@ -78,9 +78,10 @@ export default function Home() {
 
 
         
-        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live on RunAsh </code></div>   
-        <h5 className={styles.description}>Where the retailers <br />Build own made<br />Live streaming store</h5>
-       
+           
+        <h1 className={styles.title}>Physical<br />Reality<br/>Experience</h1>
+        <p>Where the retailers build own made live streaming store</p>
+        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live{' '}👉Let's start </code></div>
     </Head>
 
        
@@ -88,7 +89,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Live retail <a href="https://">streaming</a>
         </h1>
-        <p>Where the retailers build own made live streaming store</p>
+        
        
         
         <p className={styles.description}>
