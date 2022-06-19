@@ -88,7 +88,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Live retail <a href="https://">streaming</a>
         </h1>
-        <p>Where the retailers <br />Build own made<br />Live streaming store</p>
+        <p>Where the retailers build own made live streaming store</p>
        
         
         <p className={styles.description}>
