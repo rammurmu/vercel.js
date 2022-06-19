@@ -79,8 +79,9 @@ export default function Home() {
 
         
          
-        <h1 className={styles.title}>
-          A live retail streaming platform
+        <main className={styles.main}>
+         <h1>
+         Live retail streaming hybrid platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own made live streaming store</p>
@@ -102,7 +103,7 @@ export default function Home() {
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
         </p>
-        <p className={styles.card}><code>Build the new ways to use physical reality</code></p>
+        <div className={styles.card}><code className={styles.code}>Build the new ways to use physical reality</code></div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
