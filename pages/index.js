@@ -93,7 +93,7 @@ export default function Home() {
        
         <main className={styles.main}>
         <h1 className={styles.title}>
-          Schedule <a href="https://">Buy & <a href="https://"> Sell</a></a>
+          Schedule <a href="https://">Buy</a> & <a href="https://"> Sell</a>
         </h1>
         
        
@@ -102,7 +102,7 @@ export default function Home() {
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
         </p>
-        <div className={styles.card}><code className={styles.code}>Real life experience</code></div>
+        <div className={styles.card}><code className={styles.code}>Real life experience🤷</code></div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
