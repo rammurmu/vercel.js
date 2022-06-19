@@ -80,7 +80,7 @@ export default function Home() {
         
          
         <h1 className={styles.title}>
-         Live retail streaming< br /> hybrid platform
+         Live <a href="https://">retail</a> streaming< br /> <a href="https://">hybrid</a> platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
