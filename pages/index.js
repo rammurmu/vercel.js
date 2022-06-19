@@ -83,7 +83,7 @@ export default function Home() {
          Live retail streaming< br /> hybrid platform
         </h1>
         <p className={styles.description}>
-          Where the retailers build own made<br /> live streaming store</p>
+          Where the retailers build own <br />made live streaming store</p>
         <a 
           href="https://">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
@@ -93,7 +93,7 @@ export default function Home() {
        
         <main className={styles.main}>
         <h1 className={styles.title}>
-          Schedule <a href="https://">Buy & Sell</a>
+          Schedule <a href="https://">Buy & <a href="https://"> Sell</a></a>
         </h1>
         
        
