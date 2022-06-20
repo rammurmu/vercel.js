@@ -234,7 +234,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Copyright © RunAsh 2022.All rights reserved {' '}
+          © RunAsh 2022.All rights reserved {' '}
           <span className={styles.logo}>
             <Image src="vercel.svg" alt="" width={72} height={16} />
           </span>
