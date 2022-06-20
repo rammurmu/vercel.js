@@ -76,6 +76,11 @@ export default function Home() {
            <a>Dashboard</a>
            </Link>
           </li>
+          <li>
+          <Link href="/influencer" scroll={true}>
+          <a>Influencer</a>
+          </Link>
+          </li>
           </ul>
          </nav>
          </div> 
