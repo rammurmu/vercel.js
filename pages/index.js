@@ -22,52 +22,52 @@ export default function Home() {
         <nav>
           <ul className={styles.list}>
             <li>
-             <Link href="/about">
+             <Link href="/about" scroll={true}>
                <a>About</a>
              </Link>
             </li>
             <li>
-             <Link href="/buyer">
+             <Link href="/buyer" scroll={true}>
                <a>Buyer</a>
             </Link>
            </li>
            <li>
-             <Link href="/faq">
+             <Link href="/faq" scroll={true}>
                <a>Faq</a>
              </Link>
            </li>
            <li>
-             <Link href="/support">
+             <Link href="/support" scroll={true}>
                <a>Support</a>
              </Link>
            </li>
            <li>
-             <Link href="/legal">
+             <Link href="/legal" scroll={true}>
                <a>Legal</a>
              </Link>
            </li>
            <li>
-             <Link href="/pricing">
+             <Link href="/pricing" scroll={true}>
                <a>Pricing</a>
              </Link>
            </li>
            <li>
-             <Link href="/seller">
+             <Link href="/seller" scroll={true}>
                <a>Seller</a>
              </Link> 
            </li>
            <li>
-             <Link href="/blog">
+             <Link href="/blog" scroll={true}>
                <a>Blog</a>
              </Link>
            </li>
            <li>
-             <Link href="/contact">
+             <Link href="/contact" scroll={true}>
                <a>Contact</a>
              </Link>
            </li>
            <li>
-             <Link href="/my/mdx/pages">
+             <Link href="/my/mdx/pages" scroll={true}>
                <a>MdX</a>
              </Link>
            </li>
