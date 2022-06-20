@@ -71,6 +71,11 @@ export default function Home() {
                <a>MdX</a>
              </Link>
            </li>
+           <li>
+           <Link href="/dashboard" scroll={true}>
+           <a>Dashboard</a>
+           </Link>
+          </li>
           </ul>
          </nav>
          </div> 
