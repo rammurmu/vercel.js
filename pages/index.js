@@ -83,7 +83,7 @@ export default function Home() {
          Live <a href="https://">retail</a> streaming< br /> <a href="https://">hybrid</a> platform
         </h1>
         <p className={styles.description}>
-          <p style={{ color: 'red' }}> Where the retailers build own <br />made live streaming store</p>
+          Where the retailers build own <br />made live streaming store</p>
         <a 
           href="https://">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
