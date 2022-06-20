@@ -1,10 +1,12 @@
-import Header from './Header'
+import Navbar from './navbar'
+import Footer from './footer'
 
-const Layout = ({ children }) => (
-  <>
-    <Header />
-    <main>{children}</main>
-  </>
-)
-
-export default Layout
+export default function Layout({ children }) {
+  return (
+    <>
+      <Navbar />
+      <main>{children}</main>
+      <Footer />
+    </>
+  )
+}
