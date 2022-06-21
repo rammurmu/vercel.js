@@ -72,7 +72,7 @@ export default function Home() {
              </Link>
            </li>
            <li>
-           <Link href="/server component" scroll={true}>
+           <Link href="/dashboard" scroll={true}>
            <a>Dashboard</a>
            </Link>
           </li>
