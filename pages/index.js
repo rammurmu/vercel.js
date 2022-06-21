@@ -114,12 +114,12 @@ export default function Home() {
         </p>
         <div className={styles.card}><code className={styles.code}>Real life experience</code></div>
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://seller" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
             <p>Where retailers can meet to buyers & demonstrate their products </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://buyers" className={styles.card}>
             <h2>🛍️ Real Shopping &rarr;</h2>
             <p>Where buyers can meet to sellers & shopping organic products  </p>
           </a>
