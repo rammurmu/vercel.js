@@ -3,7 +3,7 @@ import ServerComponent from "./ServerComponent.js";
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
-export default function ServerComponent() {
+export default function Dashboard() {
   return (
     <>
       <ClientComponent>
