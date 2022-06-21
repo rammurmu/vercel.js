@@ -90,12 +90,12 @@ export default function Home() {
         
          
         <h1 className={styles.title}>
-         Live <a href="https://">retail</a> streaming< br /> <a href="https://">hybrid</a> platform
+         Live <a href="https://runash.in">retail</a> streaming< br /> <a href="https://runash.live">hybrid</a> platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
         <a 
-          href="https://">
+          href="https://runash.live/schedule">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
         </a>
     </Head>
@@ -103,7 +103,7 @@ export default function Home() {
        
         <main className={styles.main}>
         <h1 className={styles.title}>
-          Schedule <a href="https://">Buy</a> & <a href="https://"> Sell</a>
+          Schedule <a href="https://runash.live/buyer">Buy</a> & <a href="https://runash.live/buyer"> Sell</a>
         </h1>
         
        
@@ -114,18 +114,18 @@ export default function Home() {
         </p>
         <div className={styles.card}><code className={styles.code}>Real life experience</code></div>
         <div className={styles.grid}>
-          <a href="https://seller" className={styles.card}>
+          <a href="https://runash.live/seller" className={styles.card}>
             <h2>🛒Real Selling &rarr;</h2>
             <p>Where retailers can meet to buyers & demonstrate their products </p>
           </a>
 
-          <a href="https://buyers" className={styles.card}>
+          <a href="https://runash.live/buyer" className={styles.card}>
             <h2>🛍️ Real Shopping &rarr;</h2>
             <p>Where buyers can meet to sellers & shopping organic products  </p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://runash.live/remote"
             className={styles.card}
           >
             <h2>🧑‍💻 Remote job &rarr;</h2>
@@ -133,7 +133,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/influencer"
             className={styles.card}
           >
             <h2>🧑‍🤝‍🧑 Influencer &rarr;</h2>
@@ -143,7 +143,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://about"
+            href="https://runash.live/about"
             className={styles.card}
           >
             <h2>🎓 About RunAsh &rarr;</h2>
@@ -153,7 +153,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/mobile"
             className={styles.card}
           >
             <h2>📱RunAsh mobile &rarr;</h2>
@@ -163,7 +163,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/video"
             className={styles.card}
           >
             <h2>🙋 Live video chat &rarr;</h2>
@@ -172,7 +172,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/streaming"
             className={styles.card}
           >
             <h2>📽️ Live stream &rarr;</h2>
@@ -182,7 +182,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/watched"
             className={styles.card}
           >
             <h2>📺 Live watch  &rarr;</h2>
@@ -192,7 +192,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/experience"
             className={styles.card}
           >
             <h2>🥳 Own experience  &rarr;</h2>
@@ -202,7 +202,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/diffserve"
             className={styles.card}
           >
             <h2>🌈 Diffserve &rarr;</h2>
@@ -212,7 +212,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://runash.live/works"
             className={styles.card}
           >
             <h2>📝 How it work &rarr;</h2>
