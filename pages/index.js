@@ -67,13 +67,13 @@ export default function Home() {
              </Link>
            </li>
            <li>
-             <Link href="/my/mdx/pages" scroll={true}>
-               <a>MyMdxPage</a>
+             <Link href="mdx" scroll={true}>
+               <a>Docs</a>
              </Link>
            </li>
            <li>
-           <Link href="/server/component/page" scroll={true}>
-           <a>ServerComponentPage</a>
+           <Link href="/server component" scroll={true}>
+           <a>Dashboard</a>
            </Link>
           </li>
           <li>
