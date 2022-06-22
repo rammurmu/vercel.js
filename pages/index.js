@@ -85,13 +85,9 @@ export default function Home() {
          </nav>
          </div>
 
-      <div>
-      <details><Summary>click</Summary>
-      <p>one</p>
-      <detail>
-      </div>
-      
-
+      <div className={styles.collapse}>title='a' size="small">
+      <text>new</text>
+      <div
         
          
         <h1 className={styles.title}>
