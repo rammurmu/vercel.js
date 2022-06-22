@@ -17,23 +17,6 @@ export default function Home() {
     <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
     
-    
-    <div className={styles.left}>
-      <Link href="/">
-        <a className={styles.logo}>
-          <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>RunAsh.live</span>
-        </a>
-      </Link>
-    </div>
-    <div className={styles.right}>
-      <SignedOut>
-        <Link href="/sign-in">Sign in</Link>
-      </SignedOut>
-      <SignedIn>
-        <UserButton userProfileURL="/user" afterSignOutAll="/" afterSignOutOneUrl="/" />
-      </SignedIn>
-    </div>
   
  
 
