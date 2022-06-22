@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.menu}>
 
         <nav>
-          <ul className={styles.scroll={true}}>
+          <ul className={styles.list}>
             <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
