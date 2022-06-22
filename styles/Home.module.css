@@ -13,6 +13,10 @@
   margin: 0 3rem;
 } 
 
+.nav-line .nav-link {
+  color: #69778c;
+}
+
 .menu a {
   height: 100px;
   display: flex;
