@@ -85,11 +85,11 @@ export default function Home() {
          </nav>
          </div>
 
-      <>
+      <div>
       <details><Summary>click</Summary>
       <p>one</p>
       <detail>
-      </>
+      </div>
       
 
         
