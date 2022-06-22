@@ -26,14 +26,6 @@ export default function Home() {
         </a>
       </Link>
     </div>
-    <div className={styles.right}>
-      <SignedOut>
-        <Link href="/sign-in">Sign in</Link>
-      </SignedOut>
-      <SignedIn>
-        <Link href="/sign-out">Sign out</Link>
-      </SignedIn>
-    </div>
   </header>
 
 
