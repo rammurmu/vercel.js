@@ -21,66 +21,66 @@ export default function Home() {
 
         <nav>
           <div className={styles.menu}>
-            <li>
+            <menu>
              <Link href="/about" scroll={true}>
                <a>About</a>
              </Link>
-            </li>
-            <li>
+            </menu>
+            <menu>
              <Link href="/buyer" scroll={true}>
                <a>Buyer</a>
             </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/faq" scroll={true}>
                <a>Faq</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/support" scroll={true}>
                <a>Support</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/legal" scroll={true}>
                <a>Legal</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/pricing" scroll={true}>
                <a>Pricing</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/seller" scroll={true}>
                <a>Seller</a>
              </Link> 
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/blog" scroll={true}>
                <a>Blog</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="/contact" scroll={true}>
                <a>Contact</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
              <Link href="mdx" scroll={true}>
                <a>Docs</a>
              </Link>
-           </li>
-           <li>
+           </menu>
+           <menu>
            <Link href="/dashboard" scroll={true}>
            <a>Dashboard</a>
            </Link>
-          </li>
-          <li>
+          </menu>
+          <menu>
           <Link href="/influencer" scroll={true}>
           <a>Influencer</a>
           </Link>
-          </li>
+          </menu>
           </div>
          </nav>
          </div>
