@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
-import styles from '../styles/main.css'
+
 
 export default function Home() {
   return (
@@ -23,7 +23,7 @@ export default function Home() {
       <Link href="/">
         <a className={styles.logo}>
           <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>RunAsh</span>{' '}
+          <span className={styles.appName}>RunAsh</span>{'   '}
         </a>
       </Link>
       <Link href="/about" scroll={true}>
@@ -33,7 +33,7 @@ export default function Home() {
   </header>
 
 
-        <div className={styles.centre}>
+        <div className={styles.nav}>
 
         <nav>
           <div className={styles.menu}>
