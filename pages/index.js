@@ -90,7 +90,7 @@ export default function Home() {
         
          
         <h1 className={styles.title}>
-         Live <a href="https://runash.in">retail</a> streaming< br /> <a href="https://runash.live">hybrid</a> platform
+         Live <a href="https://runash.in">retail</a> streaming< br /> <a href="https://runash.live">hybrid platform</a>
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
@@ -98,6 +98,9 @@ export default function Home() {
           href="https://runash.live/schedule">
         <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
         </a>
+        <>
+         <p><a href="https://" title="title"><code classNa me={styles.code}>Geting live</code></a></p>
+        </>
     </Head>
 
        
