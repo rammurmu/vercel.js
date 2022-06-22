@@ -2,8 +2,8 @@
   padding: 0 2rem;
 }
  
-.menu {
-  display: scroll;
+.ul {
+  display: flex;
 }
 
 }
