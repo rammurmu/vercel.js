@@ -3,7 +3,7 @@
 }
 
 .header {
-  weight: 100px;
+  widht: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -14,7 +14,7 @@
 } 
 
 .menu a {
-  weight: 100px;
+  widht: 100px;
   display: flex;
   flex: 1;
   padding: 2rem 0;
