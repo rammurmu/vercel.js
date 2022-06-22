@@ -17,7 +17,7 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.container}>
+        <div className={styles.menu}>
 
         <nav>
           <ul className={styles.list}>
@@ -85,9 +85,7 @@ export default function Home() {
          </nav>
          </div>
 
-      <div className={styles.collapse}>
-      <text>new</text>
-      <div
+      
         
          
         <h1 className={styles.title}>
