@@ -22,7 +22,7 @@ export default function Home() {
       <Link href="/">
         <a className={styles.logo}>
           <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>RunAsh</span>
+          <span className={styles.appName}>RunAsh</span>{' '}
         </a>
       </Link>
       <Link href="/about" scroll={true}>
@@ -32,7 +32,7 @@ export default function Home() {
   </header>
 
 
-        <div className={styles.nav}>
+        <div className={styles.right}>
 
         <nav>
           <div className={styles.menu}>
