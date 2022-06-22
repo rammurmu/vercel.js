@@ -21,8 +21,8 @@ export default function Home() {
     <div className={styles.left}>
       <Link href="/">
         <a className={styles.logo}>
-          <Image src="/logo.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>Your application</span>
+          <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
+          <span className={styles.appName}>RunAsh</span>
         </a>
       </Link>
     </div>
@@ -31,7 +31,7 @@ export default function Home() {
         <Link href="/sign-in">Sign in</Link>
       </SignedOut>
       <SignedIn>
-        <UserButton userProfileURL="/user" afterSignOutAll="/" afterSignOutOneUrl="/" />
+        <Link href="/sign-out">Sign out</Link>
       </SignedIn>
     </div>
   </header>
