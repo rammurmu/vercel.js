@@ -86,10 +86,10 @@ export default function Home() {
          </div>
 
       <>
-      <details><summary>click</summary>
+      <details><Summary>click</Summary>
       <p>one
       </p>
-      </detail>
+      <detail>
       </>
       
 
