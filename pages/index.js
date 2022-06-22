@@ -85,7 +85,7 @@ export default function Home() {
          </nav>
          </div>
 
-      <div className={styles.collapse}>title='a' size="small">
+      <div className={styles.collapse}>
       <text>new</text>
       <div
         
