@@ -86,9 +86,8 @@ export default function Home() {
          </div> 
 
       <>
-      <details>Summary>CLICK ME</Summary>
+      <details>summary>CLICK ME</summary></details>
       <p>new</p>
-      <details>
      </>
 
         
