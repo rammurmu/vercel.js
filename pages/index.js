@@ -1,4 +1,3 @@
-import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -16,7 +15,27 @@ export default function Home() {
         
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
-      
+
+    <header className={styles.header}>
+    <div className={styles.left}>
+      <Link href="/">
+        <a className={styles.logo}>
+          <Image src="/logo.svg" width="32" height="32" alt="Logo" />
+          <span className={styles.appName}>Your application</span>
+        </a>
+      </Link>
+    </div>
+    <div className={styles.right}>
+      <SignedOut>
+        <Link href="/sign-in">Sign in</Link>
+      </SignedOut>
+      <SignedIn>
+        <UserButton userProfileURL="/user" afterSignOutAll="/" afterSignOutOneUrl="/" />
+      </SignedIn>
+    </div>
+  </header>
+
+
         <div className={styles.nav}>
 
         <nav>
