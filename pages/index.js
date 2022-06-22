@@ -17,7 +17,7 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.auto}>
+        <div className={styles.scroll}>
 
         <nav>
           <ul className={styles.menu}>
