@@ -87,8 +87,7 @@ export default function Home() {
 
       <>
       <details><Summary>click</Summary>
-      <p>one
-      </p>
+      <p>one</p>
       <detail>
       </>
       
