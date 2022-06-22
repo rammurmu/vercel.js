@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.centre}>
 
         <nav>
-          <ul className={styles.list}>
+          <ol className={styles.menu}>
             <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
@@ -81,7 +81,7 @@ export default function Home() {
           <a>Influencer</a>
           </Link>
           </li>
-          </ul>
+          </ol>
          </nav>
          </div> 
 
@@ -90,17 +90,17 @@ export default function Home() {
         
          
         <h1 className={styles.title}>
-         Live retail streaming< br /> <a href="https://runash.live">▶️hybrid</a> platform
+         Live retail streaming< br /> <a href="https://runash.live">▶️ hybrid</a> platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
         <a 
           href="https://runash.live/schedule">
-        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
+        <p className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></div>
         </a>
-        <>
-         <p className={styles.description}><a href="https://" title="title"><code classNa me={styles.code}>Geting live</code></a></p>
-        </>
+        
+         
+        
     </Head>
 
        
