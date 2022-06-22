@@ -2,7 +2,7 @@
   padding: 0 2rem;
 }
  
-.li {
+.header a {
   display: flex;
   flex: 1;
   padding: 2rem 0;
