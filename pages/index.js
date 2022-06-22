@@ -88,7 +88,7 @@ export default function Home() {
       <>
       <details>Summary>CLICK ME</Summary>
       <p>new</p>
-      </details>
+      <details>
      </>
 
         
