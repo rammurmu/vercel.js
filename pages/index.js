@@ -17,7 +17,7 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.centre}>
+        <div className={styles.auto}>
 
         <nav>
           <ul className={styles.menu}>
@@ -85,10 +85,7 @@ export default function Home() {
          </nav>
          </div> 
 
-      <>
-      <details>summary>CLICK ME</summary></details>
-      <p>new</p>
-     </>
+      
 
         
          
