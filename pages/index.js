@@ -25,6 +25,9 @@ export default function Home() {
           <span className={styles.appName}>RunAsh</span>
         </a>
       </Link>
+      <Link href="/about" scroll={true}>
+        <a>About</a>
+      </Link>
     </div>
   </header>
 
