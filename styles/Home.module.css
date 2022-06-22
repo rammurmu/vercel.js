@@ -1,7 +1,18 @@
 .container {
   padding: 0 2rem;
 }
- 
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerItem {
+  margin: 0 3rem;
+} 
+
 .menu a {
   display: flex;
   flex: 1;
