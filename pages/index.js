@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.menu}>
 
         <nav>
-          <ul className={styles.list}>
+          <div className={styles.list}>
             <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
@@ -81,7 +81,7 @@ export default function Home() {
           <a>Influencer</a>
           </Link>
           </li>
-          </ul>
+          </div>
          </nav>
          </div>
 
