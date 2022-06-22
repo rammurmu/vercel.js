@@ -96,7 +96,7 @@ export default function Home() {
           Where the retailers build own <br />made live streaming store</p>
         <a 
           href="https://runash.live/schedule">
-        <p className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></p></div>
+        <p className={styles.description}>{' '}<code className={styles.code}>📺Go live</code></p>
         </a>
         
          
