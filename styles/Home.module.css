@@ -2,8 +2,8 @@
   padding: 0 2rem;
 }
 
-.header {
-  height: 100px;
+.header-line {
+  height: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -12,10 +12,6 @@
 .headerItem {
   margin: 0 3rem;
 } 
-
-.nav-line .nav-link {
-  color: #69778c;
-}
 
 .menu a {
   height: 100px;
