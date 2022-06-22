@@ -94,10 +94,10 @@ export default function Home() {
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
-        
-        
-        <p className={styles.description}><a href="https://RunAsh.live/schedule" title="title"><code className={styles.code}>📺Go live</code></a></p>
-        
+        <a
+          href="https://runash.live/schedule">
+        <div className={styles.description}>{' '}<code className={styles.code}>📺Go live</code>{' '}<code>Get start</code></div>
+        </a>
         
          
         
