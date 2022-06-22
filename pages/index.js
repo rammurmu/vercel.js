@@ -1,4 +1,4 @@
-import Header from '../components/header'
+import header from '../components/header'
 import Nav from '../components/Nav'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
