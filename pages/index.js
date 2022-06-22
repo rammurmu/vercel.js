@@ -6,6 +6,7 @@ import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
 import styles from '../styles/main.css'
+
 export default function Home() {
   return (
     <div className={styles.container}>
