@@ -17,7 +17,7 @@ export default function Home() {
     <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
     
-    <div className={styles.header}>
+    <header className={styles.header}>
     <div className={styles.left}>
       <Link href="/">
         <a className={styles.logo}>
@@ -34,7 +34,7 @@ export default function Home() {
         <UserButton userProfileURL="/user" afterSignOutAll="/" afterSignOutOneUrl="/" />
       </SignedIn>
     </div>
-  </div>
+  </header>
  
 
         <div className={styles.nav}>
