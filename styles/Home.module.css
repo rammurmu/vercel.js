@@ -3,18 +3,18 @@
 }
 
 .header {
-  widht: 100px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .headerItem {
-  margin: 0 2rem;
+  margin: 0 3rem;
 } 
 
 .menu a {
-  widht: 100px;
+  height: 100px;
   display: flex;
   flex: 1;
   padding: 2rem 0;
