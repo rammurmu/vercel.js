@@ -17,10 +17,10 @@ export default function Home() {
         
        <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
       
-        <div className={styles.scroll}>
+        <div className={styles.menu}>
 
         <nav>
-          <ul className={styles.menu}>
+          <ul className={styles.scroll={true}}>
             <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
