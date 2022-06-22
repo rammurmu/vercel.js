@@ -14,14 +14,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />
         
         
-       <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
+    <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
+    <div>
     <header className={styles.header}>
     <div className={styles.left}>
       <Link href="/">
         <a className={styles.logo}>
-          <Image src="/logo.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>Your application</span>
+          <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
+          <span className={styles.appName}>RunAsh.live</span>
         </a>
       </Link>
     </div>
@@ -34,7 +35,7 @@ export default function Home() {
       </SignedIn>
     </div>
   </header>
-
+ </div>
 
         <div className={styles.nav}>
 
