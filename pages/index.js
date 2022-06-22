@@ -32,7 +32,7 @@ export default function Home() {
   </header>
 
 
-        <div className={styles.right}>
+        <div className={styles.centre}>
 
         <nav>
           <div className={styles.menu}>
