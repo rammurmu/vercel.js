@@ -28,8 +28,7 @@ export default function Home() {
      </div>
    </header>
  
-    <div className={styles.description}>
-
+      <nav className={styles.nav}>
         <nav>
           <ul className={styles.list}>
             <li>
