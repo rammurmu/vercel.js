@@ -15,7 +15,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />  
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
-      <header className={styles.header}>
        <div className={styles.left}>
        <a
           href="https://runash.in"
@@ -27,7 +26,6 @@ export default function Home() {
             <Image src="vercel.svg" alt="logo" width={72} height={16} />
           </span>
         </a>
-      </header>
       </div>
 
 
