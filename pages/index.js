@@ -27,25 +27,19 @@ export default function Home() {
           </span>
         </a>
         <Link href="/">
-        <a className={styles.dropdownMenu}>Features</a>
+        <a className={styles.menu}>Features</a>
         </Link>
         <Link href="/">
-        <a className={styles.Menu}>Company</a>
+        <a className={styles.menu}>Company</a>
         </Link>
         <Link href="/">
-        <a className={styles.Menu}>Seller</a>
+        <a className={styles.menu}>Seller</a>
         </Link>
         <Link href="/">
-        <a className={styles.Menu}>Shopping</a>
+        <a className={styles.menu}>Shopping</a>
         </Link>
         <Link href="/">
-        <a className={styles.Menu}>Legal</a>
-        </Link>
-        <Link href="/">
-        <a className={styles.Menu}>Support</a>
-        </Link>
-        <Link href="/">
-        <a className={styles.Menu}>Docs</a>
+        <a className={styles.menu}>Legal</a>
         </Link>
       </div>
 
