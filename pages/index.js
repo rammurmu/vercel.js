@@ -25,6 +25,8 @@ export default function Home() {
           <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
           <span className={styles.appName}>RunAsh</span>{'   '}
         </a>
+     </div>
+   </header>
  
     <div className={styles.nav}>
 
@@ -93,8 +95,8 @@ export default function Home() {
         </div>
        </nav>
       </div>
-     </div>
-    </header>
+     
+    
       
         
          
