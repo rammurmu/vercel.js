@@ -6,30 +6,11 @@
   height: 100px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: auto;
 }
 
 .linkItem {
-  margin: 0 3rem;
-}
-
-.LegalButton {
-  cursor: pointer;
-  padding: 1rem;
-  background-color: #335bf1;
-  color: white;
-  border-radius: 0.375rem;
-}
-
-.SupportButton:hover {
-  opacity: 0.9;
-}
-
-.DocsButton {
-  cursor: pointer;
-  padding: 1rem;
-  color: #335bf1;
-  border-radius: 0.375rem;
+  margin: 0 3rem
 }
    
 .main {
