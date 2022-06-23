@@ -27,9 +27,6 @@ export default function Home() {
           </span>
         </a>
         <Link href="/">
-        target="_blan"
-        rel="noopener noreferrer"
-       >
         <a className={styles.menu}>Features{' '}</a>
         </Link>
         <Link href="/">
