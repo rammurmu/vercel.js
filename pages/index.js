@@ -15,13 +15,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />  
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
-       <div className={styles.left}>
+       <div className={styles.logo}>
        <a
           href="https://runash.in"
           target="_blank"
           rel="noopener noreferrer"
         >
-          RunAsh.live{' '}
+          RunAsh{' '}
           <span className={styles.logo}>
             <Image src="vercel.svg" alt="logo" width={72} height={16} />
           </span>
