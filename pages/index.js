@@ -92,6 +92,7 @@ export default function Home() {
           <a>Influencer</a>
           </Link>
           </li>
+        </div>
        </nav>
      </div>
      
