@@ -15,16 +15,17 @@ export default function Home() {
         <link rel="icon" href="/favicon.icon" />  
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
-        <header className={styles.header}>
-        <div class name={styles.left}>
-        <Link href="/">
-        <a className{styles.logo}>
-        <span className={styles.logo}>
-        <Image src="vercel.svg" width="32" height="32" alt="logo" />
-        </span>
-        </a>
+      <header className={styles.header}>
+       <div class name={styles.left}>
+         <Link href="/">
+           <a className{styles.logo}>
+            <span className={styles.logo}>
+            <Image src="vercel.svg" width="32" height="32" alt="logo" />
+            </span>
+           </a>
         </Link>
-        </div>
+       </div>
+      </header>
         <h1 className={styles.title}>
          Live retail streaming platform
         </h1>
