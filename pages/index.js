@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
-import styles from '../NavBar.module.css'
+import styles from '../Navbar.module.css'
 
 export default function Home() {
   return (
