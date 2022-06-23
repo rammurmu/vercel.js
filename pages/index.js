@@ -1,11 +1,12 @@
 import Head from 'next/head'
-import Nav from '../components/Nav'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
-import NavBar from '../components/NavBar'
+import Navbar from './navbar'
+import Footer from './footer'
+
 
 export default function Home() {
   return (
