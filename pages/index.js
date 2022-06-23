@@ -19,7 +19,7 @@ export default function Home() {
         <div class name={styles.left}>
         <Link href="/">
         <a className{styles.logo}>
-        <Image src="vercel.svg" width={32} height={32} alt="logo" />
+        <Image src="vercel.svg" width="32" height="32" alt="logo" />
         </a>
         </Link>
         </div>
