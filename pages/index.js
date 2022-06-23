@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
-import Navbar from './components/navbar'
+
 
 
 
