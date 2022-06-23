@@ -17,15 +17,21 @@ export default function Home() {
 
       <header className={styles.header}>
        <div class name={styles.left}>
-         <Link href="/">
-           <a className{styles.logo}>
-            <span className={styles.logo}>
-            <Image src="vercel.svg" width="32" height="32" alt="logo" />
-            </span>
-           </a>
-        </Link>
-       </div>
+       <a
+          href="https://runash.in"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          RunAsh.live{' '}
+          <span className={styles.logo}>
+            <Image src="vercel.svg" alt="logo" width={72} height={16} />
+          </span>
+        </a>
       </header>
+      <div>
+
+
+
         <h1 className={styles.title}>
          Live retail streaming platform
         </h1>
