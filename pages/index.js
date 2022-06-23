@@ -27,10 +27,10 @@ export default function Home() {
           </span>
         </a>
         <Link href="/">
-        <a className={styles.link}>Features{' '}</a>
+        <a className={styles.menu}>Features{' '}</a>
         </Link>
         <Link href="/">
-        <a className={styles.link}>Company{' '}</a>
+        <a className={styles.menu}>Company{' '}</a>
         </Link>
         <Link href="/">
         <a className={styles.menu}>Seller{' '}</a>
