@@ -1,17 +1,6 @@
 .container {
   padding: 0 2rem;
 }
-
-.headerLine {
-  height: 100px;
-  display: auto;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.headerItem {
-  margin: 0 3rem;
-} 
     
 .main {
   min-height: 100vh;
