@@ -17,35 +17,17 @@ export default function Home() {
         
         
     <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
-
-  
-    <div className={styles.left}>
-      <Link href="/">
-        <a className={styles.logo}>
-          <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
-          <span className={styles.appName}>RunAsh</span>{'   '}
-        </a>
-     </div>
    
- 
-      
-     
-    
-      
-        
          
         <h1 className={styles.title}>
-         Live retail streaming< br /> <a href="https://runash.live">▶️ hybrid</a> platform
+         Live retail streaming< br /> <a href="https://runash.live">hybrid</a> platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
         <a
           href="https://runash.live/schedule">
         <div className={styles.description}>{' '}<code className={styles.code}>Get start</code>{' '}<code className={styles.code}><a href="https://runash.live/schedule">Go live</a></code></div>
-        </a>
-        
-         
-        
+        </a>    
     </Head>
 
        
