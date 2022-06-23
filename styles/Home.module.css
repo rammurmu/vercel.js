@@ -2,14 +2,14 @@
   padding: 0 2rem;
 }
  
-.header {
+.link {
   height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.headerItem {
+.linkItem {
   margin: 0 3rem;
 }
 
