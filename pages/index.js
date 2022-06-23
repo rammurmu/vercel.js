@@ -16,7 +16,7 @@ export default function Home() {
         <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
       <header className={styles.header}>
-       <div class name={styles.left}>
+       <div className={styles.left}>
        <a
           href="https://runash.in"
           target="_blank"
