@@ -29,6 +29,7 @@ export default function Home() {
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
+       >
         <Link href="/">
         <a className={styles.menu}>Company</a>
         </Link>
