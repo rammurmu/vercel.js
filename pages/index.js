@@ -28,7 +28,7 @@ export default function Home() {
           </span>
         </a>
       </header>
-      <div>
+      </div>
 
 
 
