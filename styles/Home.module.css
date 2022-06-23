@@ -2,10 +2,12 @@
   padding: 0 2rem;
 }
  
-.link {
+.link a {
   height: 100px;
   display: flex;
   justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   align-items: auto;
 }
 
