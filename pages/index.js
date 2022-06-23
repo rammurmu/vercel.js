@@ -29,6 +29,24 @@ export default function Home() {
         <Link href="/">
         <a className={styles.dropdownMenu}>Features</a>
         </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Company</a>
+        </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Seller</a>
+        </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Shopping</a>
+        </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Legal</a>
+        </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Support</a>
+        </Link>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Docs</a>
+        </Link>
       </div>
 
 
