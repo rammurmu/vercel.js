@@ -28,11 +28,10 @@ export default function Home() {
      </div>
    </header>
  
-    <div className={styles.nav}>
+    <div className={styles.menu}>
 
         <nav>
-          <div className={styles.list}>
-          <ul>
+          <ul className={styles.list}>
             <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
@@ -93,10 +92,8 @@ export default function Home() {
           <a>Influencer</a>
           </Link>
           </li>
-        </ul>
-        </div>
        </nav>
-      </div>
+     </div>
      
     
       
