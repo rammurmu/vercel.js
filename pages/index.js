@@ -25,82 +25,76 @@ export default function Home() {
           <Image src="/vercel.svg" width="32" height="32" alt="Logo" />
           <span className={styles.appName}>RunAsh</span>{'   '}
         </a>
-      </Link>
-      <Link href="/about" scroll={true}>
-        <a>About</a>
-      </Link>
     </div>
-  </header>
-
-
-        <div className={styles.nav}>
+ 
+    <div className={styles.nav}>
 
         <nav>
-          <div className={styles.menu}>
-            <menu>
+          <ul className={styles.list}>
+            <li>
              <Link href="/about" scroll={true}>
                <a>About</a>
              </Link>
-            </menu>
-            <menu>
+            </li>
+            <li>
              <Link href="/buyer" scroll={true}>
                <a>Buyer</a>
             </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/faq" scroll={true}>
                <a>Faq</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/support" scroll={true}>
                <a>Support</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/legal" scroll={true}>
                <a>Legal</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/pricing" scroll={true}>
                <a>Pricing</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/seller" scroll={true}>
                <a>Seller</a>
              </Link> 
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/blog" scroll={true}>
                <a>Blog</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="/contact" scroll={true}>
                <a>Contact</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
              <Link href="mdx" scroll={true}>
                <a>Docs</a>
              </Link>
-           </menu>
-           <menu>
+           </li>
+           <li>
            <Link href="/dashboard" scroll={true}>
            <a>Dashboard</a>
            </Link>
-          </menu>
-          <menu>
+          </li>
+          <li>
           <Link href="/influencer" scroll={true}>
           <a>Influencer</a>
           </Link>
-          </menu>
-          </div>
-         </nav>
-         </div>
-
+          </li>
+        </div>
+       </nav>
+      </div>
+    </header>
       
         
          
