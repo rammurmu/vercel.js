@@ -28,72 +28,7 @@ export default function Home() {
      </div>
    </header>
  
-      <nav className={styles.nav}>
-        <nav>
-          <ul className={styles.list}>
-            <li>
-             <Link href="/about" scroll={true}>
-               <a>About</a>
-             </Link>
-            </li>
-            <li>
-             <Link href="/buyer" scroll={true}>
-               <a>Buyer</a>
-            </Link>
-           </li>
-           <li>
-             <Link href="/faq" scroll={true}>
-               <a>Faq</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="/support" scroll={true}>
-               <a>Support</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="/legal" scroll={true}>
-               <a>Legal</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="/pricing" scroll={true}>
-               <a>Pricing</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="/seller" scroll={true}>
-               <a>Seller</a>
-             </Link> 
-           </li>
-           <li>
-             <Link href="/blog" scroll={true}>
-               <a>Blog</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="/contact" scroll={true}>
-               <a>Contact</a>
-             </Link>
-           </li>
-           <li>
-             <Link href="mdx" scroll={true}>
-               <a>Docs</a>
-             </Link>
-           </li>
-           <li>
-           <Link href="/dashboard" scroll={true}>
-           <a>Dashboard</a>
-           </Link>
-          </li>
-          <li>
-          <Link href="/influencer" scroll={true}>
-          <a>Influencer</a>
-          </Link>
-          </li>
-          </div>
-          </nav>
-         </div>
+      
      
     
       
