@@ -1,5 +1,6 @@
 import styles from '../styles/About.module.css'
 import Link from 'next/link'
+import Layout from '../components/Layout'
 
 export default function About() {
   return (
