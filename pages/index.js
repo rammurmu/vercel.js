@@ -29,18 +29,17 @@ export default function Home() {
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
-       >
         <Link href="/">
-        <a className={styles.menu}>Company</a>
+        <a className={styles.menu}>{' '}Company{' '}</a>
         </Link>
         <Link href="/">
-        <a className={styles.menu}>Seller</a>
+        <a className={styles.menu}>Seller{' '}</a>
         </Link>
         <Link href="/">
-        <a className={styles.menu}>Shopping</a>
+        <a className={styles.menu}>Shopping{' '}</a>
         </Link>
         <Link href="/">
-        <a className={styles.menu}>Legal</a>
+        <a className={styles.menu}>Legal{ ' '}</a>
         </Link>
       </div>
 
