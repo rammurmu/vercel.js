@@ -26,6 +26,9 @@ export default function Home() {
             <Image src="vercel.svg" alt="logo" width={72} height={16} />
           </span>
         </a>
+        <Link href="/">
+        <a className={styles.dropdownMenu}>Features</a>
+        </Link>
       </div>
 
 
