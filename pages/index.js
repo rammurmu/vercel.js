@@ -18,7 +18,7 @@ export default function Home() {
         
     <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live</code></div>
 
-    <header className={styles.header}>
+  
     <div className={styles.left}>
       <Link href="/">
         <a className={styles.logo}>
@@ -26,7 +26,7 @@ export default function Home() {
           <span className={styles.appName}>RunAsh</span>{'   '}
         </a>
      </div>
-   </header>
+   
  
       
      
