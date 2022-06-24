@@ -43,10 +43,10 @@ export default function Home() {
         </Link>
       </div>
 
-      <div className={styles.description}><code className={styles.code}>Introduction</code></div>
+      <div className={styles.card}><code className={styles.code}>Introduction</code></div>
 
         <h1 className={styles.title}>
-         Live retail streaming platform
+         Live retail streaming<br /> platform
         </h1>
         <p className={styles.description}>
           Where the retailers build own <br />made live streaming store</p>
