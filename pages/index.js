@@ -43,7 +43,7 @@ export default function Home() {
         </Link>
       </div>
 
-
+      <div className={styles.lable}>Introduction </div>
 
         <h1 className={styles.title}>
          Live retail streaming platform
