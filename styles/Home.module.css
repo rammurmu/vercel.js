@@ -15,7 +15,7 @@
   margin: 0 3rem
 }
  
-.card {
+.cardLink {
   margin: 1rem;
   padding: 1.5rem;
   text-align: centrr;
@@ -33,7 +33,16 @@
   color: #0070f3;
   border-color: #0070f3;
 }
-  
+ 
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+ 
 .main {
   min-height: 100vh;
   padding: 4rem 0;
