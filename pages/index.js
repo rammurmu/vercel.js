@@ -44,7 +44,7 @@ export default function Home() {
       </div>
       <div className={styles.centre}>
        <Link href="/">
-      <div className={styles.description}><card className={styles.card}><code className={styles.code}>Introduction</code></card></div>
+      <div className={styles.description}><card className={styles.card}><code className={styles.code}><p Id="New">Introducing the net generation of e-commerce</p></code></card></div>
       </Link>
       </div>
         <h1 className={styles.title}>
