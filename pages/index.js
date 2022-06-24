@@ -42,9 +42,11 @@ export default function Home() {
         <a className={styles.menu}>Legal{ ' '}</a>
         </Link>
       </div>
-
-      <div className={styles.card}><code className={styles.code}>Introduction</code></div>
-
+      <div className={styles.centre}>
+       <Link href="/">
+      <card className={styles.card}><code className={styles.code}>Introduction</code></card>
+      </Link>
+      </div>
         <h1 className={styles.title}>
          Live retail streaming<br /> platform
         </h1>
