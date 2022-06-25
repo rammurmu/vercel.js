@@ -5,16 +5,12 @@
 .logo a {
   height: 50em;
   margin-left: 0.5rem;
-}
-
-.link a {
-  height: 400px;
   display: flex;
   justify-content: space-between;
   flex-direction: auto;
   justify-content: center;
   align-items: auto;
-  border-top: 1px solid #eaeaea;
+  border-down: 1px solid #eaeaea;
 }
 
 .link menu {
