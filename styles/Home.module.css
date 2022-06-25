@@ -3,12 +3,12 @@
 }
  
 .logo a {
-  height: 5em;
+  height: 10em;
   margin-left: 0.5rem;
 }
 
 .link a {
-  height: 100px;
+  height: 200px;
   display: flex;
   justify-content: space-between;
   flex-direction: auto;
@@ -17,7 +17,7 @@
 }
 
 .link menu {
-  margin: 0 5rem
+  margin: 0 10rem
 }
  
 .card link {
