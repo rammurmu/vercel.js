@@ -28,7 +28,7 @@ export default function Home() {
         </a>
         </div>
         
-        div className={style.nav}>
+        <div className={style.Nav}>
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
@@ -40,9 +40,11 @@ export default function Home() {
         <Link href="/">
         <a className={styles.menu}>Seller{' '}</a>
         </Link>
+
         <Link href="/">
         <a className={styles.menu}>Shopping{' '}</a>
         </Link>
+
         <Link href="/">
         <a className={styles.menu}>Legal{ ' '}</a>
         </Link>
