@@ -28,7 +28,7 @@ export default function Home() {
         </a>
         </div>
         
-        <div className={style.Nav}>
+        <div className={style.collapes}>
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
