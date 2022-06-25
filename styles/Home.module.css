@@ -2,7 +2,7 @@
   padding: 0 2rem;
 }
  
-.logo {
+.logo a {
   height: 5em;
   margin-left: 0.5rem;
 }
@@ -16,7 +16,7 @@
   align-items: auto;
 }
 
-.link item {
+.link menu {
   margin: 0 3rem
 }
  
