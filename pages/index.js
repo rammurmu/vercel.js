@@ -26,8 +26,9 @@ export default function Home() {
             <Image src="vercel.svg" alt="logo" width={150} height={50} />
           </span>
         </a>
+        </div>
         <br />
-        <br />
+        div className={style.nav}>
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
@@ -46,12 +47,14 @@ export default function Home() {
         <a className={styles.menu}>Legal{ ' '}</a>
         </Link>
       </div>
+
       <div className={styles.centre}>
        <Link href="/">
        <br />
       <div className={styles.description}><card className={styles.card}><code className={styles.code}>🆕 <strong>Latest:</strong> updates &rarr;</code></card></div>
       </Link>
       </div>
+
         <h1 className={styles.title}>
          Live retail streaming<br /> platform
         </h1>
