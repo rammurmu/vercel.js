@@ -27,7 +27,7 @@ export default function Home() {
           </span>
         </a>
         </div>
-        <br />
+        
         div className={style.nav}>
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
@@ -50,7 +50,6 @@ export default function Home() {
 
       <div className={styles.centre}>
        <Link href="/">
-       <br />
       <div className={styles.description}><card className={styles.card}><code className={styles.code}>🆕 <strong>Latest:</strong> updates &rarr;</code></card></div>
       </Link>
       </div>
