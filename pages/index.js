@@ -27,7 +27,7 @@ export default function Home() {
           </span>
         </a> 
         <Link href="/">
-        <a className={styles.menu}>Features{dropwon}</a>
+        <a className={styles.menu}>Features{' '}</a>
         </Link>
         
         <Link href="/">
