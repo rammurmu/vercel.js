@@ -21,9 +21,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          RunAsh{' '}
           <span className={styles.logo}>
-            <Image src="vercel.svg" alt="logo" width={72} height={16} />
+            <Image src="vercel.svg" alt="logo" width={150} height={50} />
           </span>
         </a>
         <Link href="/">
