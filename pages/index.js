@@ -29,11 +29,11 @@ export default function Home() {
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
-        <Nav />
+        
         <Link href="/">
         <a className={styles.menu}>Company{' '}</a>
         </Link>
-        <Nav />
+        
         <Link href="/">
         <a className={styles.menu}>Seller{' '}</a>
         </Link>
@@ -46,7 +46,7 @@ export default function Home() {
       </div>
       <div className={styles.centre}>
        <Link href="/">
-      <div className={styles.description}><card className={styles.card}><code className={styles.code}>🆕 Latest updates &rarr;</code></card></div>
+      <div className={styles.description}><card className={styles.card}><code className={styles.code}>🆕 <br />Latest updates &rarr;</code></card></div>
       </Link>
       </div>
         <h1 className={styles.title}>
