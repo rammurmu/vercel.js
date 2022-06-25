@@ -27,6 +27,7 @@ export default function Home() {
           </span>
         </a>
         <br />
+        <br />
         <Link href="/">
         <a className={styles.menu}>Features{' '}</a>
         </Link>
@@ -47,6 +48,7 @@ export default function Home() {
       </div>
       <div className={styles.centre}>
        <Link href="/">
+       <br />
       <div className={styles.description}><card className={styles.card}><code className={styles.code}>🆕 <strong>Latest:</strong> updates &rarr;</code></card></div>
       </Link>
       </div>
