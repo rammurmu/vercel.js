@@ -3,13 +3,14 @@
 }
  
 .logo a {
-  height: 20em;
+  height: 50em;
   margin-left: 0.5rem;
   display: flex;
   justify-content: space-between;
-  flex-direction: centre;
-  justify-content: centre;
-  align-items: centre;
+  flex-direction: auto;
+  justify-content: auto;
+  align-items: auto;
+  margin-left: auto;
 }
 
 .link menu {
