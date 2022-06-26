@@ -27,14 +27,14 @@ export default function Home() {
           </span>
         </a> 
         </div>
-        <div className={styles.nav}>
+        <div className={styles.navLink}>
         <Link href="/">
-        <a className={styles.link}>Features{' '}</a>
+        <a className={styles.navLink}>Features{' '}</a>
         </Link>
 
         
         <Link href="/">
-        <a className={styles.link}>Company{' '}</a>
+        <a className={styles.navLink}>Company{' '}</a>
         </Link>
       </div>
 
