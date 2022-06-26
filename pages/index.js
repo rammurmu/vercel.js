@@ -29,15 +29,18 @@ export default function Home() {
        </div>
 
       <div className={styles.nav}>
-      <div class name={styles.list}>
+      <ul class name={styles.list}>
+        <li>
         <a href="/">
         <a>Features</a>
         </Link>
-
-        
+        </li>
+        <li>
         <a href="/">
         <a>Company</a>
         </Link>
+        </li>
+        </ul>
       </div>
 
 
