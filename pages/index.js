@@ -17,11 +17,7 @@ export default function Home() {
 
        <div className={styles.logo}>
        <a
-          href="https://runash.in"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         <strong>RunAsh</strong>{' '}
+          href="https://"
           <span className={styles.logo}>
             <Image src="vercel.svg" alt="logo" width={150} height={50} />
           </span>
