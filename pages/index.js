@@ -16,11 +16,10 @@ export default function Home() {
         
 
        <div className={styles.logo}>
-       <a
-          href="https://"
-          <span className={styles.logo}>
-            <Image src="vercel.svg" alt="logo" width={150} height={50} />
-          </span>
+       <a href="https://"
+       <span 
+        <Image src="vercel.svg" alt="logo" width={150} height={50} />
+       </span>
        </a> 
        </div>
 
