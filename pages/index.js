@@ -28,20 +28,21 @@ export default function Home() {
        </a> 
        </div>
 
-      <div className={styles.navLink}>
-        <Link href="/">
-        <a className={styles.navLink}>Features{' '}</a>
+      <div className={styles.nav}>
+      <div class name={styles.list}>
+        <a href="/">
+        <a>Features</a>
         </Link>
 
         
-        <Link href="/">
-        <a className={styles.navLink}>Company{' '}</a>
+        <a href="/">
+        <a>Company</a>
         </Link>
       </div>
 
 
 
-      <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh.Live &rarr;</code></div>
+      <div className={styles.description}>{' '}<code className={styles.code}>👏 Welcome to RunAsh &rarr;</code></div>
 
       <div className={styles.centre}>
        <Link href="/">
