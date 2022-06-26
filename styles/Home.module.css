@@ -5,11 +5,11 @@
 .logo a {
   height: 50em;
   margin-left: 0.5rem;
-  display: flex;
+  display: auto;
   justify-content: space-between;
   flex-direction: auto;
-  justify-content: auto;
-  align-items: auto;
+  justify-content: left;
+  align-items: centre;
   margin-left: auto;
 }
 
