@@ -33,12 +33,12 @@ export default function Home() {
         <li>
         <a href="/">
         <a>Features</a>
-        </Link>
+        </a>
         </li>
         <li>
         <a href="/">
         <a>Company</a>
-        </Link>
+        </a>
         </li>
         </ul>
       </div>
