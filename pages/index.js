@@ -26,28 +26,15 @@ export default function Home() {
             <Image src="vercel.svg" alt="logo" width={150} height={50} />
           </span>
         </a> 
+        </div>
+        <div className={styles.nav}>
         <Link href="/">
-        <a className={styles.menu}>Features{' '}</a>
+        <a className={styles.link}>Features{' '}</a>
         </Link>
 
         
         <Link href="/">
-        <a className={styles.menu}>Company{' '}</a>
-        </Link>
-        
-
-        <Link href="/">
-        <a className={styles.menu}>Seller{' '}</a>
-        </Link>
-
-
-        <Link href="/">
-        <a className={styles.menu}>Shopping{' '}</a>
-        </Link>
-
-
-        <Link href="/">
-        <a className={styles.menu}>Legal{ ' '}</a>
+        <a className={styles.link}>Company{' '}</a>
         </Link>
       </div>
 
