@@ -5,6 +5,18 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+
+export default function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
 
 export default function Home() {
   return (
@@ -25,8 +37,8 @@ export default function Home() {
       <div className={styles.nav}>
       <ul class name={styles.list}>
         <li>
-        <a href="/">
-        <a>Features</a>
+        <a href="/#about" scroll{true}>
+        <a>About</a>
         </a>
         </li>
         <li>
