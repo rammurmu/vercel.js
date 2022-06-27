@@ -5,18 +5,7 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 import { MDXProvider } from '@mdx-js/react'
 import Button from '../components/Button'
-import { useEffect } from "react";
-import { useLocation } from "react-router-dom";
 
-export default function ScrollToTop() {
-  const { pathname } = useLocation();
-
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [pathname]);
-
-  return null;
-}
 
 export default function Home() {
   return (
