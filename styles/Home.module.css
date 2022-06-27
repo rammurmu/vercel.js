@@ -13,8 +13,16 @@
   margin-left: auto;
 }
 
-.nav link {
-  margin: 0 30rem
+.nav list {
+  margin: 0 30rem;
+  height: 50em;
+  margin-left: 0.5rem;
+  display: auto;
+  justify-content: space-between;
+  flex-direction: auto;
+  justify-content: left;
+  align-items: centre;
+  margin-left: auto;
   
 }
  
