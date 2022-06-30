@@ -23,7 +23,7 @@ export default function Home() {
       <div className={styles.nav}>
        <ul>
         <li>
-        <a href="/#about" 
+        <a href="/about">
         <a>About</a>
         </a>
         </li>
