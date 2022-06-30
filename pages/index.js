@@ -20,7 +20,7 @@ export default function Home() {
         <span> 
         <Image src="vercel.svg" alt="logo" width={150} height={50} />
         </span>
-      
+       </div>
 
       <div className={styles.list}>
        
