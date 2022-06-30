@@ -25,7 +25,7 @@ export default function Home() {
 
       <div className={styles.nav}>
         <li>
-        <a href="/#about" scroll{true}>
+        <a href="/#about" 
         <a>About</a>
         </a>
         </li>
