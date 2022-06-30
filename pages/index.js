@@ -24,7 +24,6 @@ export default function Home() {
        </div>
 
       <div className={styles.nav}>
-      <ul class name={styles.list}>
         <li>
         <a href="/#about" scroll{true}>
         <a>About</a>
@@ -35,7 +34,6 @@ export default function Home() {
         <a>Company</a>
         </a>
         </li>
-        </ul>
       </div>
 
 
