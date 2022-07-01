@@ -18,7 +18,7 @@ export default function Home() {
        <div class name={styles.logo}>
         <a href="https://"></a>
         <span> 
-        <Image src="vercel.svg" alt="logo" width={150} height={50} />
+        <Image src="vercel.svg" alt="logo" width={50} height={50} />
         </span>
        </div>
 
