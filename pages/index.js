@@ -33,7 +33,7 @@ export default function Home() {
 
 
 
-      <div className={styles.description}>{' '}👏 Welcome to RunAsh &rarr;</div>
+      <div className={styles.description}>{' '}<card class name={styles.card}>👏 Welcome to RunAsh &rarr;</card></div>
 
       <div className={styles.centre}>
        <Link href="/">
@@ -193,9 +193,9 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Copyright © 2022 RunAsh. All rights reserved. {' '}
+         © 2022 RunAsh. All rights reserved. {' '}
           <span className={styles.logo}>
-            <Image src="vercel.svg" alt="logo" width={72} height={16} />
+            <Image src="/vercel.svg" alt=" vercel Logo" width={72} height={16} />
           </span>
         </a>
      </footer>
