@@ -18,7 +18,7 @@ export default function Home() {
 
       <div className={styles.centre}>
        <Link href="/">
-      <div className={styles.description}><card className={styles.card}>🆕 <strong>Latest:</strong> updates &rarr;</card></div>
+      <div className={styles.description}><card className={styles.card}>🆕<strong>Latest:</strong> updates &rarr;</card></div>
       </Link>
       </div>
 
@@ -164,7 +164,6 @@ export default function Home() {
          href="https://Google.form.com">
          <p className={styles.card}>Get your valuable feedback ✨ &rarr;</p>
        </a>
-
       </div>
       </main>
 
@@ -180,6 +179,5 @@ export default function Home() {
           </span>
         </a>
      </footer>
-    </div>
   )
 }
