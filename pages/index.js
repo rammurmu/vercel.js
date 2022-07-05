@@ -2,8 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
-import { MDXProvider } from '@mdx-js/react'
-import Button from '../components/Button'
+
 
 
 export default function Home() {
@@ -34,10 +33,7 @@ export default function Home() {
         <main className={styles.main}>
         <h1 className={styles.title}>
           Schedule <a href="https://runash.live/buyer">Buy</a> & <a href="https://runash.live/buyer"> Sell</a>
-        </h1>
-        
-       
-        
+        </h1> 
         <p className={styles.description}>
           Get started by {' '}
           <code className={styles.code}>Live stream</code>
@@ -179,5 +175,6 @@ export default function Home() {
           </span>
         </a>
      </footer>
+  </div>
   )
 }
