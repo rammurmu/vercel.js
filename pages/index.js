@@ -15,12 +15,15 @@ export default function Home() {
          The live retail<br /> streaming<br />platform
         </h1>
         <p>
-          Where the retailers build own <br />made live streaming store</p>
-       
+          Where the retailers build own <br />made live streaming store
+        </p>
+        <Button onclick={primary}>Get started</Button>
         <h1 className={styles.description}>
           The hybrid<br />marketplace
         </h1>
-        <p>Build engaging interactive<br />real life experience</p>
+        <p>
+          Build engaging interactive<br />real life experience
+        </p>
            
     </Head>
         <main className={styles.main}>
