@@ -17,7 +17,7 @@ export default function Home() {
         <p>
           Where the retailers build own <br />made live streaming store
         </p>
-        <Button onclick={primary}>Get started</Button>
+        <Button>Get started</Button>
         <h1 className={styles.description}>
           The hybrid<br />marketplace
         </h1>
